@@ -19,4 +19,5 @@ questo esempio modificato:
 
 ## TODO
 - [x] Iniziare
-- [ ] Integrare le modifiche fatte al repo con i social facebook e twitter
+- [x] Integrare le modifiche fatte al repo con i social facebook e twitter
+- [ ] Convincere le persone a modificare un file su Github per tenere i dati aggiornati
