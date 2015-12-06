@@ -1,6 +1,6 @@
 20151214:
   title: [TCS] API D.O.C.G. con Grape
-  when: 2015-12-14T19:30Z
+  when: 2015-12-14T19:30:00Z
   url: http://torinocodingsociety.it/events/api-d-o-c-g-con-grape/
 
 20151210:
