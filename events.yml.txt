@@ -1,15 +1,10 @@
-2015121243:
-  title: Audio Hack2
-  when: 2016-01-11
-  url: http://test.it
+20151214:
+  title: [TCS] API D.O.C.G. con Grape
+  when: 2015-12-14T19:30Z
+  url: http://torinocodingsociety.it/events/api-d-o-c-g-con-grape/
 
-20151212:
+20151210:
   title: DataBeers Torino
-  desc: cena varia (opzionale)
-  when: 2015-12-08T13:15:30Z
-  url: http://test.it
-
-201512124:
-  title: Audio Hack
-  when: 2015-12-11
-  url: http://test.it
+  desc: varie ed eventuali
+  when: 2015-12-10T13:15:30Z
+  url: https://www.eventbrite.com/e/databeers-torino-tickets-19742836355
