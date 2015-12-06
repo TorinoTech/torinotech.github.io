@@ -1,0 +1,15 @@
+2015121243:
+  title: Audio Hack2
+  when: 2016-01-11
+  url: http://test.it
+
+20151212:
+  title: DataBeers Torino
+  desc: cena varia (opzionale)
+  when: 2015-12-08T13:15:30Z
+  url: http://test.it
+
+201512124:
+  title: Audio Hack
+  when: 2015-12-11
+  url: http://test.it
