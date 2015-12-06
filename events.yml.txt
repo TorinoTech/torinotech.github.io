@@ -1,10 +1,16 @@
 20151214:
-  title: [TCS] API D.O.C.G. con Grape
+  organizer: TCS
+  title: API D.O.C.G. con Grape
   when: 2015-12-14T19:30:00Z
   url: http://torinocodingsociety.it/events/api-d-o-c-g-con-grape/
 
 20151210:
-  title: DataBeers Torino
-  desc: varie ed eventuali
+  organizer: DataBeers Torino
   when: 2015-12-10T13:15:30Z
   url: https://www.eventbrite.com/e/databeers-torino-tickets-19742836355
+
+20160311:
+  organizer: TorinoJS
+  title: (da confermare)
+  when: 2016-03-11T19:00:00Z
+  url: http://torinojs.github.io

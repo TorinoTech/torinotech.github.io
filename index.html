@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
       }
 
       eventsHtml += '<div class="event-box" key='+key+'>' +
-                        '<h3>' + el.title + ((el.desc) ? ': '+ el.desc : '') + '</h3>' +
+                        '<h3>' + el.organizer + ((el.title) ? ': '+ el.title : '') + '</h3>' +
                         el.when.toLocaleString() + ' - ' + el.when.toLocaleString('it' ,{ weekday: 'long'}) +'<br />' +
                         '<a href="' + el.url + '">'+ el.url + '</a>' +
                     '</div>'
