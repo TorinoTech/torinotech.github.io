@@ -21,3 +21,11 @@ questo esempio modificato:
 - [x] Iniziare
 - [x] Integrare le modifiche fatte al repo con i social facebook e twitter
 - [ ] Convincere le persone a modificare un file su Github per tenere i dati aggiornati
+
+### Cosa si intende con eventi tech Open * ?
+
+Eventi che trattano principalmente di tecnologia e utilizzano tecnologie Open Source
+
+### Chi può inserire gli eventi ?
+
+Uno o due membri per gruppo Open * di Torino che hanno fatto richiesta
