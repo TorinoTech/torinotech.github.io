@@ -16,6 +16,7 @@ questo esempio e modificarlo:
   organizer: User Group
   title: (campo opzionale) Tante belle cose
   when: 2015-12-10T13:15:30Z
+  free: (campo opzionale) true|false (default: true)
   url: https://url-evento-o-registrazione.com
 ```
 
@@ -28,6 +29,7 @@ Se non sei sicuro puoi comunque testare il sito localmente prima di fare il comm
 - [x] Integrare le modifiche fatte al repo con i social facebook e twitter
 - [ ] Convincere le persone a modificare un file su Github per tenere i dati aggiornati
 - [ ] Differenziare gli eventi gratuiti da quelli a pagamento
+- [x] Differenziare gli eventi gratuiti da quelli a pagamento
 
 ### Cosa si intende con eventi tech Open * ?
 
