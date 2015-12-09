@@ -20,3 +20,9 @@
   title: (da confermare)
   when: 2016-03-11T19:00:00Z
   url: http://torinojs.github.io
+  
+20160407:
+  organizer: Synesthesia
+  title: Droidcon Italy 2016 - Torino
+  when: 2016-04-07T09:00:00Z
+  url: http://droidcon.it
