@@ -23,7 +23,14 @@
 
 20160407:
   organizer: Synesthesia
-  title: Droidcon Italy 2016 - Torino
+  title: Droidcon Italy 2016 CONFERENCE - Torino April 7-8 
   when: 2016-04-07 09:00:00 +1
-  free: false
   url: http://droidcon.it
+  free: false
+
+20160409:
+  organizer: Synesthesia
+  title: Droidcon Italy 2016 HACKATHON - Torino April 9-10
+  when: 2016-04-09 09:00:00 +1
+  url: http://it.droidcon.com/2016/hackathon-droidcon-italy/
+  free: false
