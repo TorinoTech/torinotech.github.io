@@ -1,29 +1,29 @@
 20151214:
   organizer: TCS
   title: API D.O.C.G. con Grape
-  when: 2015-12-14T19:30:00Z
+  when: 2015-12-14 19:30:00 +1
   url: http://torinocodingsociety.it/events/api-d-o-c-g-con-grape/
 
 20151212:
   organizer: Coderdojo
   title: Christmas Scratch
-  when: 2015-12-12T14:30:00Z
+  when: 2015-12-12 14:30:00 +1
   url: https://www.eventbrite.it/e/biglietti-coderdojoupto-christmas-scratch-19783424756
 
 20151210:
   organizer: DataBeers Torino
-  when: 2015-12-10T13:15:30Z
+  when: 2015-12-10 19:30:00 +1
   url: https://www.eventbrite.com/e/databeers-torino-tickets-19742836355
 
 20160311:
   organizer: TorinoJS
   title: (da confermare)
-  when: 2016-03-11T19:00:00Z
+  when: 2016-03-11 19:00:00 +1
   url: http://torinojs.github.io
 
 20160407:
   organizer: Synesthesia
   title: Droidcon Italy 2016 - Torino
-  when: 2016-04-07T09:00:00Z
+  when: 2016-04-07 09:00:00 +1
   free: false
   url: http://droidcon.it

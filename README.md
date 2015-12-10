@@ -15,7 +15,7 @@ questo esempio e modificarlo:
 20151210:
   organizer: User Group
   title: (campo opzionale) Tante belle cose
-  when: 2015-12-10T13:15:30Z
+  when: 2015-12-10 19:30:00 +1
   free: (campo opzionale) true|false (default: true)
   url: https://url-evento-o-registrazione.com
 ```
