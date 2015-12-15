@@ -10,10 +10,11 @@
   when: 2015-12-12 14:30:00 +1
   url: https://www.eventbrite.it/e/biglietti-coderdojoupto-christmas-scratch-19783424756
 
-20151210:
-  organizer: DataBeers Torino
-  when: 2015-12-10 19:30:00 +1
-  url: https://www.eventbrite.com/e/databeers-torino-tickets-19742836355
+20151215:
+  organizer: Wordpress Torino
+  title: Dicembre Episodio 6
+  when: 2015-12-15 18:00:00 +1
+  url: http://www.meetup.com/WordPress-Meetup-Torino/events/226699223/
 
 20160311:
   organizer: TorinoJS
