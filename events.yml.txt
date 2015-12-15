@@ -1,20 +1,13 @@
-20151214:
-  organizer: TCS
-  title: API D.O.C.G. con Grape
-  when: 2015-12-14 19:30:00 +1
-  url: http://torinocodingsociety.it/events/api-d-o-c-g-con-grape/
-
-20151212:
-  organizer: Coderdojo
-  title: Christmas Scratch
-  when: 2015-12-12 14:30:00 +1
-  url: https://www.eventbrite.it/e/biglietti-coderdojoupto-christmas-scratch-19783424756
-
 20151215:
   organizer: Wordpress Torino
   title: Dicembre Episodio 6
   when: 2015-12-15 18:00:00 +1
   url: http://www.meetup.com/WordPress-Meetup-Torino/events/226699223/
+
+20151221:
+  organizer: Bitcoin Torino
+  when: 2015-12-21 20:30:00 +1
+  url: http://www.meetup.com/Meetup-Bitcoin-Torino/events/227413386/
 
 20160311:
   organizer: TorinoJS
