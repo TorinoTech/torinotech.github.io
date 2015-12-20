@@ -9,6 +9,13 @@
   when: 2015-12-21 20:30:00 +1
   url: http://www.meetup.com/Meetup-Bitcoin-Torino/events/227413386/
 
+20160112:
+  organizer: Wordpress Torino
+  title: Dicembre Episodio 7
+  when: 2015-12-15 18:00:00 +1
+  url: http://www.meetup.com/it/WordPress-Meetup-Torino/events/227528713/
+  free: true
+
 20160311:
   organizer: TorinoJS
   title: (da confermare)
