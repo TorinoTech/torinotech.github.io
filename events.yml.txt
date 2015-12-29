@@ -1,9 +1,15 @@
 20160112:
   organizer: Wordpress Torino
-  title: Torino Hacknight
+  title: Gennaio 2016 Episodio 7
   when: 2016-01-12 18:00:00 +1
   url: http://www.meetup.com/it/WordPress-Meetup-Torino/events/227528713/
   free: true
+
+20160113:
+  organizer: TorinoTech
+  title: Cena organizzativa per evento Torino Tech
+  when: 2016-01-13 20:00:00 +1
+  url: http://doodle.com/poll/tzkitthevatgvyma
 
 20160121:
   organizer: Torino HackNight
