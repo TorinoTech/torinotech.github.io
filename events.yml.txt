@@ -1,20 +1,14 @@
-20151215:
-  organizer: Wordpress Torino
-  title: Dicembre Episodio 6
-  when: 2015-12-15 18:00:00 +1
-  url: http://www.meetup.com/WordPress-Meetup-Torino/events/226699223/
-
-20151221:
-  organizer: Bitcoin Torino
-  when: 2015-12-21 20:30:00 +1
-  url: http://www.meetup.com/Meetup-Bitcoin-Torino/events/227413386/
-
 20160112:
   organizer: Wordpress Torino
-  title: Dicembre Episodio 7
+  title: Torino Hacknight
   when: 2016-01-12 18:00:00 +1
   url: http://www.meetup.com/it/WordPress-Meetup-Torino/events/227528713/
   free: true
+
+20160121:
+  organizer: Torino HackNight
+  when: 2016-01-21 18:30:00 +1
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-20142558936
 
 20160311:
   organizer: TorinoJS
