@@ -16,6 +16,12 @@
   when: 2016-01-21 18:30:00 +1
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-20142558936
 
+20160129:
+  organizer: T-Union e TreataBit
+  title: Global Game Jam
+  when: 2016-01-29 11:00:00 +1
+  url: http://globalgamejam.org/2016/jam-sites/turin-italy
+
 20160311:
   organizer: TorinoJS
   title: (da confermare)
