@@ -11,6 +11,12 @@
   when: 2016-01-13 20:00:00 +1
   url: http://doodle.com/poll/tzkitthevatgvyma
 
+20160114:
+  organizer: FABLAB TORINO
+  title: Biohacking e DIY BIO meetup
+  when: 2016-01-14 19:00:00 +1
+  url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-20127020460
+  
 20160121:
   organizer: Torino HackNight
   when: 2016-01-21 18:30:00 +1
