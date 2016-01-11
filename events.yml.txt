@@ -28,6 +28,12 @@
   when: 2016-01-29 11:00:00 +1
   url: http://globalgamejam.org/2016/jam-sites/turin-italy
 
+20160210:
+  organizer: Casa Jasmina
+  title: Design fictions, connected devices, and future possibilities talk
+  when: 2016-02-10 18:30:00 +1
+  url: http://www.meetup.com/Torino-IoT-Meetup/events/228002372/
+
 20160310:
   organizer: Corley srl
   title: CloudConf 2016
