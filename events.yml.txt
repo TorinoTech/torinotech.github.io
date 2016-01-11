@@ -16,7 +16,7 @@
   title: Biohacking e DIY BIO meetup
   when: 2016-01-14 19:00:00 +1
   url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-20127020460
-  
+
 20160121:
   organizer: Torino HackNight
   when: 2016-01-21 18:30:00 +1
@@ -28,6 +28,13 @@
   when: 2016-01-29 11:00:00 +1
   url: http://globalgamejam.org/2016/jam-sites/turin-italy
 
+20160310:
+  organizer: Corley srl
+  title: CloudConf 2016
+  when: 2016-03-10 09:00:00 +1
+  free: false
+  url: http://2016.cloudconf.it/
+
 20160311:
   organizer: TorinoJS
   title: (da confermare)
@@ -36,7 +43,7 @@
 
 20160407:
   organizer: Synesthesia
-  title: Droidcon Italy 2016 CONFERENCE - Torino April 7-8 
+  title: Droidcon Italy 2016 CONFERENCE - Torino April 7-8
   when: 2016-04-07 09:00:00 +1
   url: http://droidcon.it
   free: false
