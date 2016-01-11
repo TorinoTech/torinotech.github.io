@@ -20,7 +20,7 @@ questo esempio e modificarlo:
   url: https://url-evento-o-registrazione.com
 ```
 
-Il titolo del commit sarà anche il testo del Tweet e post Facebook. Esempio di titolo del commit: **31/01 - Mio evento X**
+Il titolo del commit sarà anche il testo del Tweet e post Facebook. Esempio di titolo del commit: **31/01: Mio evento X**
 
 Se non sei sicuro puoi comunque testare il sito localmente prima di fare il commit.
 
