@@ -22,6 +22,13 @@
   when: 2016-01-21 18:30:00 +1
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-20142558936
 
+20160128:
+  organizer: Torino Scala Programming & Big Data Meetup
+  title: Akka - Reactive and Parallel Programming
+  when: 2016-01-28 20:00:00 +1
+  url: http://www.meetup.com/Torino-Scala-Programming-Big-Data-Meetup/events/227898268/
+  free: true
+
 20160129:
   organizer: T-Union e TreataBit
   title: Global Game Jam
