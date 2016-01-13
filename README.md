@@ -16,7 +16,7 @@ questo esempio e modificarlo:
   organizer: User Group
   title: (campo opzionale) Tante belle cose
   when: 2015-12-10 19:30:00 +1
-  free: (campo opzionale) true|false (default: true)
+  free: (campo opzionale) true|false (default: true) (se è richiesta la tessera non è free)
   url: https://url-evento-o-registrazione.com
 ```
 
