@@ -1,3 +1,10 @@
+20160118:
+  organizer: Torino Coding Society
+  title: "Deploy di web app: la strada meno battuta"
+  when: 2016-01-18 19:30:00 +1
+  url: http://l.welaika.com/1P19eZc
+  free: true
+
 20160112:
   organizer: Wordpress Torino
   title: Gennaio 2016 Episodio 7
