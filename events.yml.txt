@@ -17,6 +17,12 @@
   when: 2016-01-14 19:00:00 +1
   url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-20127020460
 
+20160118:
+  organizer: Torino Coding Society
+  title: "Deploy di web app: la strada meno battuta"
+  when: 2016-01-18 19:30:00 +1
+  url: http://torinocodingsociety.it/events/deploy-di-web-app-la-strada-meno-battuta/
+
 20160121:
   organizer: Torino HackNight
   when: 2016-01-21 18:30:00 +1
