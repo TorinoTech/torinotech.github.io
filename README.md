@@ -68,7 +68,7 @@ Testo: Vi parlerò di Hashtag Tech Topic X fun, l’ho usato per fare Y, accenni
 
 E si procede subito a bloccare la issue con **Lock conversation**
 
-Le candidature CALL si aprono su: https://github.com/TorinoTech/torinotech.github.io
+Le candidature CALL si aprono su: https://github.com/TorinoTech/torinotech.github.io/issues
 
 ### VOTE
 
