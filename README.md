@@ -54,7 +54,7 @@ TorinoTech ha lo scopo di:
 Canali ufficiali
 
 - *NEWS*: http://TorinoTech.it con repeater su Facebook / Twitter
-- *DISCUSSIONI*: organizzative, aggiunta eventi,.. https://github.com/TorinoTech/torinotech.github.io
+- *DISCUSSIONI*: organizzative, aggiunta eventi,.. https://github.com/TorinoTech/torinotech.github.io/issues
 - *CHAT*: https://gitter.im/TorinoTech/chat
 
 ### CALL
