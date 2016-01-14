@@ -1,6 +1,8 @@
 # Torino Tech - torinotech.github.io
 ### l'aggregatore di tutti gli eventi tech di Torino!
 
+Vai al [Regolamento](#regolamento)
+
 Lo scopo di questo progetto è quello di avere un punto unico, facilmente modificabile e mantenibile dove far sapere i propri eventi a Torino. Puoi seguire gli eventi anche su [Facebook](https://www.facebook.com/TorinoTech/) e [Twitter](https://twitter.com/torinotech) (vengono sincronizzati circa dopo 30min rispetto le modifiche effettuate qui).
 
 ## Come aggiungere un evento
@@ -37,3 +39,48 @@ Eventi che trattano principalmente di tecnologia e utilizzano tecnologie Open So
 ### Chi può inserire gli eventi ?
 
 Uno o due membri per gruppo Open * di Torino che hanno fatto richiesta
+
+# Regolamento
+
+*Less is more*
+
+### DEFINE
+
+TorinoTech ha lo scopo di:
+
+- Promuovere gli eventi Open * Tech di Torino e dintorni
+- Organizzare propri eventi su tecnologie open trasversali ai vari gruppi, per favorirne la conoscenza e il confronto
+
+Canali ufficiali
+
+- *NEWS*: http://TorinoTech.it con repeater su Facebook / Twitter
+- *DISCUSSIONI*: organizzative, aggiunta eventi,.. https://github.com/TorinoTech/torinotech.github.io
+- *CHAT*: https://gitter.im/TorinoTech/chat
+
+### CALL
+
+Quando ci sono nell’aria abbastanza talk si apre la fase di CALL. Ovvero ognuno può aprire *fino a 2 issue* del tipo:
+
+```
+Titolo: +HashtagTechTopicX Scopri Lorem Ipsum
+Testo: Vi parlerò di Hashtag Tech Topic X fun, l’ho usato per fare Y, accenni a pro e limitazioni
+```
+
+E si procede subito a bloccare la issue con **Lock conversation**
+
+Le candidature CALL si aprono su: https://github.com/TorinoTech/torinotech.github.io
+
+### VOTE
+
+Finita la fase CALL, si procede al voto feedback. Ovvero **si sbloccano le issue** e chi è interessato all’argomento aggiunge un +1 oppure prova a chiedere al relatore di integrare nel proprio intervento un certo argomento.
+
+**I participants alla issue sono anche i voti**.
+
+Le 4 issue che prendono più voti entrano nel buffer dell’evento TorinoTech. A una settimana dall’evento si chiede la conferma della disponibilità ai relatori e:
+
+- in caso di 3 conferme, abbiamo i 3 talk da 25 min per l’evento
+- in caso di 4 conferme il relatore del 4 talk più votato può scegliere di: ritentare alla prossima CALL, farsi ospitare da un * User Group di Torino per una serata singola (se entrambe le parti sono d'accordo)
+
+### EVENT
+
+L’evento. Qualche settimana prima verrà aperto un evento su Eventbrite.
