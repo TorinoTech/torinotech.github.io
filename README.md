@@ -49,7 +49,7 @@ Uno o due membri per gruppo Open * di Torino che hanno fatto richiesta
 TorinoTech ha lo scopo di:
 
 - Promuovere gli eventi Open * Tech di Torino e dintorni
-- Organizzare propri eventi su tecnologie open trasversali ai vari gruppi, per favorirne la conoscenza e il confronto
+- Organizzare propri eventi su tecnologie open trasversali ai vari gruppi, in particolare quelle non legate a nessun user group, per favorirne la conoscenza e il confronto
 
 Canali ufficiali
 
