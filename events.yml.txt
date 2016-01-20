@@ -6,7 +6,7 @@
   free: true
 
 20160112:
-  organizer: Wordpress Torino
+  organizer: WordPress Torino
   title: Gennaio 2016 Episodio 7
   when: 2016-01-12 18:00:00 +1
   url: http://www.meetup.com/it/WordPress-Meetup-Torino/events/227528713/
@@ -48,6 +48,20 @@
   title: Global Game Jam
   when: 2016-01-29 11:00:00 +1
   url: http://globalgamejam.org/2016/jam-sites/turin-italy
+  
+20160130:
+  organizer: WordPress Torino
+  title: Special Edition Lost in Translation
+  when: 2016-01-30 10:00:00 +1
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228118909/
+  free: true
+  
+20160209:
+  organizer: WordPress Torino
+  title: WordPress Meetup Febbraio 2016 Episodio 8
+  when: 2016-02-09 18:00:00 +1
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228172966/
+  free: true  
 
 20160210:
   organizer: Casa Jasmina
