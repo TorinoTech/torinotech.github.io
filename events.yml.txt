@@ -29,6 +29,13 @@
   when: 2016-01-21 18:30:00 +1
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-20142558936
 
+20160125:
+  organizer: Incubatore Fintech SellaLab
+  title: Bitcoin Meetup Torino
+  when: 2016-01-25 20:30:00 +1
+  url: http://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/events/228055125/
+  free: true
+
 20160128:
   organizer: Torino Scala Programming & Big Data Meetup
   title: Akka - Reactive and Parallel Programming
