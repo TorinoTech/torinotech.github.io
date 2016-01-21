@@ -82,6 +82,12 @@
   when: 2016-03-11 19:00:00 +1
   url: http://torinojs.github.io
 
+20160402:
+  organizer: Arduino.cc
+  title: Arduino Day 2016 - Torino April 2
+  when: 2016-04-02 09:00:00 +1
+  url: https://day.arduino.cc/
+
 20160407:
   organizer: Synesthesia
   title: Droidcon Italy 2016 CONFERENCE - Torino April 7-8
