@@ -36,6 +36,13 @@
   url: http://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/events/228055125/
   free: true
 
+20160125:
+  organizer: Ninux Torino
+  title: Riunione Ninux Torino
+  when: 2016-01-25 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
 20160128:
   organizer: Torino Scala Programming & Big Data Meetup
   title: Akka - Reactive and Parallel Programming
@@ -48,20 +55,20 @@
   title: Global Game Jam
   when: 2016-01-29 11:00:00 +1
   url: http://globalgamejam.org/2016/jam-sites/turin-italy
-  
+
 20160130:
   organizer: WordPress Torino
   title: Special Edition Lost in Translation
   when: 2016-01-30 10:00:00 +1
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228118909/
   free: true
-  
+
 20160209:
   organizer: WordPress Torino
   title: WordPress Meetup Febbraio 2016 Episodio 8
   when: 2016-02-09 18:00:00 +1
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228172966/
-  free: true  
+  free: true
 
 20160210:
   organizer: Casa Jasmina
