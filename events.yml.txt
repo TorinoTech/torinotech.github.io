@@ -78,9 +78,9 @@
 
 20160311:
   organizer: TorinoJS
-  title: (da confermare)
+  title: jsNight 11mar2016
   when: 2016-03-11 19:00:00 +1
-  url: http://torinojs.github.io
+  url: https://j.mp/1nrm6fk
 
 20160402:
   organizer: Arduino.cc
