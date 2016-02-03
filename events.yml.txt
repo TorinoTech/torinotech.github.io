@@ -63,6 +63,13 @@
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228118909/
   free: true
 
+20160208:
+  organizer: Torino Coding Society
+  title: "Da un vecchio server bollito al cloud"
+  when: 2016-02-08 19:30:00 +1
+  url: http://l.welaika.com/1KpV9T2
+  free: true
+
 20160209:
   organizer: WordPress Torino
   title: WordPress Meetup Febbraio 2016 Episodio 8
