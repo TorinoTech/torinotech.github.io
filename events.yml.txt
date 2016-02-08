@@ -87,6 +87,7 @@
   organizer: FABLAB TORINO
   title: Biohacking and DIY BIO meetup - Bioelectricity
   when: 2016-02-11 19:00:00 +1
+  free: false
   url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-21061055183
 
 20160223:
