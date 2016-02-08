@@ -107,6 +107,12 @@
   when: 2016-03-11 19:00:00 +1
   url: https://j.mp/1nrm6fk
 
+20160401:
+  organizer: TorinoTech
+  title: TechNight 01apr2016 
+  when: 2016-04-01 19:00:00 +1
+  url: http://www.eventbrite.com/e/biglietti-torinotech-technight-01apr2016-incontro-su-tecnologie-open-source-21425767046?aff=torinotechweb
+
 20160402:
   organizer: Arduino.cc
   title: Arduino Day 2016 - Torino April 2
