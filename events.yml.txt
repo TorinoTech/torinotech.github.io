@@ -1,198 +1,106 @@
-20160118:
-  organizer: Torino Coding Society
-  title: "Deploy di web app: la strada meno battuta"
-  when: 2016-01-18 19:30:00 +1
-  url: http://l.welaika.com/1P19eZc
-  free: true
-
-20160112:
-  organizer: WordPress Torino
-  title: Gennaio 2016 Episodio 7
-  when: 2016-01-12 18:00:00 +1
-  url: http://www.meetup.com/it/WordPress-Meetup-Torino/events/227528713/
-  free: true
-
-20160113:
-  organizer: TorinoTech
-  title: Cena organizzativa per evento Torino Tech
-  when: 2016-01-13 20:00:00 +1
-  url: http://doodle.com/poll/tzkitthevatgvyma
-
-20160114:
-  organizer: FABLAB TORINO
-  title: Biohacking e DIY BIO meetup
-  when: 2016-01-14 19:00:00 +1
-  url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-20127020460
-
-20160121:
-  organizer: Torino HackNight
-  when: 2016-01-21 18:30:00 +1
-  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-20142558936
-
-20160125:
-  organizer: Incubatore Fintech SellaLab
-  title: Bitcoin Meetup Torino
-  when: 2016-01-25 20:30:00 +1
-  url: http://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/events/228055125/
-  free: true
-
-20160125:
-  organizer: Ninux Torino
-  title: Riunione Ninux Torino
-  when: 2016-01-25 21:00:00 +1
-  url: http://ml.ninux.org/mailman/listinfo/torino
-  free: true
-
-20160128:
-  organizer: Torino Scala Programming & Big Data Meetup
-  title: Akka - Reactive and Parallel Programming
-  when: 2016-01-28 20:00:00 +1
-  url: http://www.meetup.com/Torino-Scala-Programming-Big-Data-Meetup/events/227898268/
-  free: true
-
-20160129:
-  organizer: T-Union e TreataBit
-  title: Global Game Jam
-  when: 2016-01-29 11:00:00 +1
-  url: http://globalgamejam.org/2016/jam-sites/turin-italy
-
-20160130:
-  organizer: WordPress Torino
-  title: Special Edition Lost in Translation
-  when: 2016-01-30 10:00:00 +1
-  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228118909/
-  free: true
-
-20160208:
-  organizer: Torino Coding Society
-  title: "Da un vecchio server bollito al cloud"
-  when: 2016-02-08 19:30:00 +1
-  url: http://l.welaika.com/1KpV9T2
-  free: true
-
-20160208:
-  organizer: Ninux Torino
-  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-02-08 21:00:00 +1
-  url: http://ml.ninux.org/mailman/listinfo/torino
-  free: true
-
-20160209:
-  organizer: WordPress Torino
-  title: WordPress Meetup Febbraio 2016 Episodio 8
-  when: 2016-02-09 18:00:00 +1
-  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228172966/
-  free: true
-
-20160210:
-  organizer: Casa Jasmina
-  title: Design fictions, connected devices, and future possibilities talk
-  when: 2016-02-10 18:30:00 +1
-  url: http://www.meetup.com/Torino-IoT-Meetup/events/228002372/
-
 20160211:
   organizer: FABLAB TORINO
   title: Biohacking and DIY BIO meetup - Bioelectricity
-  when: 2016-02-11 19:00:00 +1
+  when: !!str 2016-02-11 19:00:00
   free: false
   url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-21061055183
 
 20160222:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-02-22 21:00:00 +1
+  when: !!str 2016-02-22 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160223:
   organizer: Torino HackNight
-  when: 2016-02-23 18:30:00 +1
+  when: !!str 2016-02-23 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-wordmove-21217826089
 
 20160307:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-03-07 21:00:00 +1
+  when: !!str 2016-03-07 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160310:
   organizer: Corley srl
-  title: CloudConf 2016
-  when: 2016-03-10 09:00:00 +1
+  title: CloudConf !!str 2016
+  when: !!str 2016-03-10 09:00:00
   free: false
   url: http://2016.cloudconf.it/
 
 20160311:
   organizer: TorinoJS
   title: jsNight 11mar2016
-  when: 2016-03-11 19:00:00 +1
+  when: !!str 2016-03-11 19:00:00
   url: https://j.mp/1nrm6fk
 
 20160321:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-03-21 21:00:00 +1
+  when: !!str 2016-03-21 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160401:
   organizer: TorinoTech
   title: TechNight 01apr2016
-  when: 2016-04-01 19:00:00 +1
+  when: !!str 2016-04-01 19:00:00
   url: http://www.eventbrite.com/e/biglietti-torinotech-technight-01apr2016-incontro-su-tecnologie-open-source-21425767046?aff=torinotechweb
 
 20160402:
   organizer: Arduino.cc
-  title: Arduino Day 2016 - Torino April 2
-  when: 2016-04-02 09:00:00 +1
+  title: Arduino Day !!str 2016 - Torino April 2
+  when: !!str 2016-04-02 09:00:00
   url: https://day.arduino.cc/
 
 20160404:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-04-04 21:00:00 +1
+  when: !!str 2016-04-04 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160407:
   organizer: Synesthesia
-  title: Droidcon Italy 2016 CONFERENCE - Torino April 7-8
-  when: 2016-04-07 09:00:00 +1
+  title: Droidcon Italy !!str 2016 CONFERENCE - Torino April 7-8
+  when: !!str 2016-04-07 09:00:00
   url: http://droidcon.it
   free: false
 
 20160409:
   organizer: Synesthesia
-  title: Droidcon Italy 2016 HACKATHON - Torino April 9-10
-  when: 2016-04-09 09:00:00 +1
+  title: Droidcon Italy !!str 2016 HACKATHON - Torino April 9-10
+  when: !!str 2016-04-09 09:00:00
   url: http://it.droidcon.com/2016/hackathon-droidcon-italy/
   free: false
 
 20160418:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-04-18 21:00:00 +1
+  when: !!str 2016-04-18 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160502:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-05-02 21:00:00 +1
+  when: !!str 2016-05-02 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160516:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-05-16 21:00:00 +1
+  when: !!str 2016-05-16 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
 20160530:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
-  when: 2016-05-30 21:00:00 +1
+  when: !!str 2016-05-30 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true

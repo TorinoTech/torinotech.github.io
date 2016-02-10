@@ -278,7 +278,7 @@ h1, h2, h3, h4, h5, h6 {
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.6/zepto.min.js
 "></script>
 <!-- <script type="text/javascript" src="//cdn.jsdelivr.net/cookie-bar/1/cookiebar-latest.js?remember=1200&privacyPage=%2Fcookie-law"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.4.6/js-yaml.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.5.2/js-yaml.min.js"></script>
 
 <script>
 
@@ -300,6 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 
     for (var key in eventsJson) {
       var el = eventsJson[key]
+      el.when = new Date(el.when)
 
       if (el.when < today) continue
 
