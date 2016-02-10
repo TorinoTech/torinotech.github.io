@@ -26,7 +26,7 @@
 
 20160310:
   organizer: Corley srl
-  title: CloudConf !!str 2016
+  title: CloudConf 2016
   when: !!str 2016-03-10 09:00:00
   free: false
   url: http://2016.cloudconf.it/
@@ -52,7 +52,7 @@
 
 20160402:
   organizer: Arduino.cc
-  title: Arduino Day !!str 2016 - Torino April 2
+  title: Arduino Day 2016 - Torino April 2
   when: !!str 2016-04-02 09:00:00
   url: https://day.arduino.cc/
 
@@ -65,14 +65,14 @@
 
 20160407:
   organizer: Synesthesia
-  title: Droidcon Italy !!str 2016 CONFERENCE - Torino April 7-8
+  title: Droidcon Italy 2016 CONFERENCE - Torino April 7-8
   when: !!str 2016-04-07 09:00:00
   url: http://droidcon.it
   free: false
 
 20160409:
   organizer: Synesthesia
-  title: Droidcon Italy !!str 2016 HACKATHON - Torino April 9-10
+  title: Droidcon Italy 2016 HACKATHON - Torino April 9-10
   when: !!str 2016-04-09 09:00:00
   url: http://it.droidcon.com/2016/hackathon-droidcon-italy/
   free: false
