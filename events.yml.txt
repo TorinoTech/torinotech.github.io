@@ -70,6 +70,13 @@
   url: http://l.welaika.com/1KpV9T2
   free: true
 
+20160208:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-02-08 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
 20160209:
   organizer: WordPress Torino
   title: WordPress Meetup Febbraio 2016 Episodio 8
@@ -90,10 +97,24 @@
   free: false
   url: https://www.eventbrite.it/e/biglietti-biohacking-diy-bio-meetup-21061055183
 
+20160222:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-02-22 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
 20160223:
   organizer: Torino HackNight
   when: 2016-02-23 18:30:00 +1
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-wordmove-21217826089
+
+20160307:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-03-07 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
 
 20160310:
   organizer: Corley srl
@@ -108,9 +129,16 @@
   when: 2016-03-11 19:00:00 +1
   url: https://j.mp/1nrm6fk
 
+20160321:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-03-21 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
 20160401:
   organizer: TorinoTech
-  title: TechNight 01apr2016 
+  title: TechNight 01apr2016
   when: 2016-04-01 19:00:00 +1
   url: http://www.eventbrite.com/e/biglietti-torinotech-technight-01apr2016-incontro-su-tecnologie-open-source-21425767046?aff=torinotechweb
 
@@ -119,6 +147,13 @@
   title: Arduino Day 2016 - Torino April 2
   when: 2016-04-02 09:00:00 +1
   url: https://day.arduino.cc/
+
+20160404:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-04-04 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
 
 20160407:
   organizer: Synesthesia
@@ -133,3 +168,31 @@
   when: 2016-04-09 09:00:00 +1
   url: http://it.droidcon.com/2016/hackathon-droidcon-italy/
   free: false
+
+20160418:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-04-18 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
+20160502:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-05-02 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
+20160516:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-05-16 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
+20160530:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: 2016-05-30 21:00:00 +1
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
