@@ -17,6 +17,12 @@
   when: !!str 2016-02-23 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-wordmove-21217826089
 
+20160229:
+  organizer: Incubatore Fintech SellaLab
+  title: Bitcoin Meetup Torino
+  when: !!str 2016-02-29 20:30
+  url: http://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/events/228751257/
+  
 20160307:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
