@@ -32,7 +32,7 @@
 
 20160308:
   organizer: WordPress Meetup Torino
-  title: Episodio 9: Pretty in Pink
+  title: Episodio 9 - Pretty in Pink
   when: !!str 2016-03-08 18:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228872565/
   
