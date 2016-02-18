@@ -30,6 +30,12 @@
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
+20160308:
+  organizer: WordPress Meetup Torino
+  title: Episodio 9: Pretty in Pink
+  when: !!str 2016-03-08 18:00
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228872565/
+  
 20160310:
   organizer: Corley srl
   title: CloudConf 2016
