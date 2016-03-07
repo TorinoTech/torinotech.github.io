@@ -56,6 +56,13 @@
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
+20160322:
+  organizer: Torino Hacknight
+  title: Torino Hacknight: Axemas
+  when: !!str 2016-03-22 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-axemas-22659967573
+  free: true
+
 20160401:
   organizer: TorinoTech
   title: TechNight 01apr2016
