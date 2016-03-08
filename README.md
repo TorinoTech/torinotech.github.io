@@ -14,7 +14,7 @@ Rispetta esattamente questa sintassi YAML altrimenti si spacca tutto (gli spazi 
 questo esempio e modificarlo:
 
 ``` yaml
-20151210:
+201512101930:
   organizer: User Group
   title: (campo opzionale) Tante belle cose
   when: !!str 2015-12-10 19:30
@@ -23,6 +23,8 @@ questo esempio e modificarlo:
 ```
 
 Il titolo del commit sarà anche il testo del Tweet e post Facebook. Esempio di titolo del commit: **31/01: Mio evento X**
+
+L'ID dell'evento (201512101930) deve essere univoco. Generalmente basta indicare anno+mese+giorno+ora+minuti. Nel caso di ID duplicato ti invitiamo ad aggiungere un minuto all'ID (in questo caso 201512101931).
 
 Se non sei sicuro puoi comunque testare il sito localmente prima di fare il commit.
 
