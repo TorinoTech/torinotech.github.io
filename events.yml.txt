@@ -65,7 +65,7 @@
 
 201603221830:
   organizer: Torino Hacknight
-  title: Torino Hacknight: Axemas
+  title: Torino Hacknight Axemas
   when: !!str 2016-03-22 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-axemas-22659967573
   free: true
