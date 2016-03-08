@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 
     for (var key in eventsJson) {
       var el = eventsJson[key]
-      el.when = new Date(el.when)
+      el.when = new Date(el.when.replace(' ', 'T')+'+0000')
 
       if (el.when < today) continue
 
@@ -311,7 +311,7 @@ h1, h2, h3, h4, h5, h6 {
 
       eventsHtml += '<div class="event-box" key='+key+'>' +
                         '<h3>' + el.organizer + ((el.title) ? ': '+ el.title : '') + '</h3>' +
-                        ((el.free || el.free == undefined) ? '<span style="color:green;">free</span> - ' : '') + el.when.toLocaleString() + ' - ' + el.when.toLocaleString('it' ,{ weekday: 'long'}) +'<br />' +
+                        ((el.free || el.free == undefined) ? '<span style="color:green;">free</span> - ' : '') + el.when.toLocaleString('it', {timeZone: 'UTC'}) + ' - ' + el.when.toLocaleString('it' ,{weekday: 'long', timeZone: 'UTC'}) +'<br />' +
                         '<a href="' + el.url + '">'+ el.url + '</a>' +
                     '</div>'
     }
@@ -325,7 +325,6 @@ h1, h2, h3, h4, h5, h6 {
   get('events.yml.txt', function(data) {
     var doc = jsyaml.load(data);
     updateEvents(doc)
-    console.log(doc)
   })
 
 </script>
