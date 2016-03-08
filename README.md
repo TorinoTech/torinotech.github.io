@@ -92,3 +92,12 @@ Le 4 issue che prendono più voti entrano nel buffer dell’evento TorinoTech. A
 ### EVENT
 
 L’evento. Qualche settimana prima verrà aperto un evento su Eventbrite.
+
+### Dev Contributes
+
+Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni per far partire il server in locale usando node.js ed express.js.
+
+1. Assicurati di aver installato node.js
+2. Installa le dipendenze con `npm install` dalla cartella del progetto
+3. Lancia il server con `node app.js`
+4. Apri il browser e raggiungi l'indirizzo `localhost:3000
