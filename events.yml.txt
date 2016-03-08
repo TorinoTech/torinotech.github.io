@@ -22,7 +22,7 @@
   title: Bitcoin Meetup Torino
   when: !!str 2016-02-29 20:30
   url: http://www.meetup.com/it-IT/Meetup-Bitcoin-Torino/events/228751257/
-  
+
 20160307:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
@@ -35,13 +35,20 @@
   title: Episodio 9 - Pretty in Pink
   when: !!str 2016-03-08 18:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/228872565/
-  
+
 20160310:
   organizer: Corley srl
   title: CloudConf 2016
   when: !!str 2016-03-10 09:00:00
   free: false
   url: http://2016.cloudconf.it/
+
+20160310:
+  organizer: weLaika
+  title: Torino Coding Society - L'altra metà del codice
+  when: !!str 2016-03-10 19:30:00
+  free: true
+  url: http://l.welaika.com/1LaQeWG
 
 20160311:
   organizer: TorinoJS
@@ -55,7 +62,7 @@
   when: !!str 2016-03-21 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
-  
+
 20160401:
   organizer: WordPress Torino Meetup
   title: WordPress Contributor Day - Torino April 1
@@ -67,7 +74,7 @@
   title: TechNight 01apr2016
   when: !!str 2016-04-01 19:00:00
   url: http://www.eventbrite.com/e/biglietti-torinotech-technight-01apr2016-incontro-su-tecnologie-open-source-21425767046?aff=torinotechweb
-  
+
 20160401:
   organizer: WordPress Torino Meetup
   title: WordCamp - Torino April 2
