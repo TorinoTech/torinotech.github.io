@@ -86,6 +86,7 @@
   organizer: WordPress Torino Meetup
   title: WordCamp - Torino April 2
   when: !!str 2016-04-02 09:00:00
+  free: false
   url: https://torino.wordcamp.org/
 
 201604020901:
