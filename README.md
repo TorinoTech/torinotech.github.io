@@ -19,6 +19,7 @@ questo esempio e modificarlo:
   title: (campo opzionale) Tante belle cose
   when: !!str 2015-12-10 19:30
   free: (campo opzionale) true|false (default: true) (se è richiesta la tessera non è free)
+  price: (campo opzionale) (impostando free a false è possibile inserire qui una stringa con le indicazioni di costo)
   url: https://url-evento-o-registrazione.com
 ```
 
