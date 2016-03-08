@@ -43,7 +43,7 @@
   free: false
   url: http://2016.cloudconf.it/
 
-20160310:
+20160309:
   organizer: weLaika
   title: Torino Coding Society - L'altra metà del codice
   when: !!str 2016-03-10 19:30:00
