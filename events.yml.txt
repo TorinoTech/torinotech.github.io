@@ -63,7 +63,7 @@
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
-20160401:
+20160231:
   organizer: WordPress Torino Meetup
   title: WordPress Contributor Day - Torino April 1
   when: !!str 2016-04-01 09:00:00
@@ -75,13 +75,13 @@
   when: !!str 2016-04-01 19:00:00
   url: http://www.eventbrite.com/e/biglietti-torinotech-technight-01apr2016-incontro-su-tecnologie-open-source-21425767046?aff=torinotechweb
 
-20160401:
+20160402:
   organizer: WordPress Torino Meetup
   title: WordCamp - Torino April 2
   when: !!str 2016-04-02 09:00:00
   url: https://torino.wordcamp.org/
 
-20160402:
+20160403:
   organizer: Arduino.cc
   title: Arduino Day 2016 - Torino April 2
   when: !!str 2016-04-02 09:00:00
