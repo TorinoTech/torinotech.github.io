@@ -56,6 +56,13 @@
   when: !!str 2016-03-11 19:00:00
   url: https://j.mp/1nrm6fk
 
+201603211930:
+  organizer: weLaika
+  title: Torino Coding Society - Grumpy Granny, quando il gioco si fa iOS
+  when: !!str 2016-03-21 19:30:00
+  free: true
+  url: http://l.welaika.com/1QXwGFJ
+
 201603212100:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
