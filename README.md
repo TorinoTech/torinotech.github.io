@@ -7,11 +7,10 @@ Lo scopo di questo progetto è quello di avere un punto unico, facilmente modifi
 
 ## Come aggiungere un evento
 
-Se hai i permessi [clicca qui](https://github.com/TorinoTech/torinotech.github.io/edit/master/events.yml.txt)
-e aggiungi l'evento in ordine cronologico (in basso gli eventi più futuri)
+[Clicca qui](https://github.com/TorinoTech/torinotech.github.io/edit/master/events.yml.txt)
+e aggiungi l'evento in ordine cronologico (in basso gli eventi più futuri). Se non hai i permessi devi creare un tuo fork e poi inviare una PR.
 
-Rispetta esattamente questa sintassi YAML altrimenti si spacca tutto (gli spazi sono significativi), puoi **copiare ed incollare**
-questo esempio e modificarlo:
+Se non sai come funziona YAML o hai qualche dubbio verifica la correttezza della tua modifica tramite [questo sito](http://yaml-online-parser.appspot.com/), rispetta esattamente la sintassi YAML altrimenti si spacca tutto (gli spazi sono significativi), puoi **copiare ed incollare** questo esempio e modificarlo:
 
 ``` yaml
 201512101930:
