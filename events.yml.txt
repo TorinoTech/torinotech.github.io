@@ -77,6 +77,13 @@
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-axemas-22659967573
   free: true
 
+201603312015:
+  organizer: GLugTO www.glugto.org
+  title: 5° incontro "LINUX DA ZER0 2016 - 9° EDIZIONE" - GESTIRE I PROGRAMMI
+  when: !!str 2016-03-31 20:15:00
+  url: https://www.eventbrite.it/e/biglietti-5-incontro-della-serie-linux-da-zero-2016-9-edizione-24222379790
+  free: true
+
 201604010900:
   organizer: WordPress Torino Meetup
   title: WordPress Contributor Day - Torino April 1
