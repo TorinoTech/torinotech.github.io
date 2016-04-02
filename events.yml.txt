@@ -137,6 +137,13 @@
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
+201604261830:
+  organizer: Torino HackNight
+  title: Torino HackNight - Open data
+  when: !!str 2016-04-26 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-open-data-24096344816
+  free: true
+
 201605022100:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
