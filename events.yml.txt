@@ -129,6 +129,13 @@
   when: !!str 2016-04-09 09:00:00
   url: http://it.droidcon.com/2016/hackathon-droidcon-italy/
   free: false
+  
+201604121800:
+  organizer: WordPress Meetup Torino
+  title: WordPress Meetup Torino Episodio 10 - Sweet Dreams
+  when: !!str 2016-04-12 18:00
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/229464624/
+  free: true
 
 201604182100:
   organizer: Ninux Torino
