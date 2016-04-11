@@ -90,7 +90,7 @@
   when: !!str 2016-04-01 09:00:00
   url: https://torino.wordcamp.org/
 
-201604011900:
+201604011998:
   organizer: TorinoTech
   title: TechNight 01apr2016
   when: !!str 2016-04-01 19:00:00
