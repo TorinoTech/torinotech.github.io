@@ -133,14 +133,14 @@
 201604111800:
   organizer: Torino Coding Society
   title: Javascript: le parti buoneJavascript: le parti buone
-  when: !!str 2016-04-11 19:30
+  when: !!str 2016-04-11 19:30:00
   url: http://l.welaika.com/1RUkHb8
   free: true
   
 201604121820:
   organizer: WordPress Meetup Torino
   title: WordPress Meetup Torino Episodio 10 - Sweet Dreams
-  when: !!str 2016-04-12 18:00
+  when: !!str 2016-04-12 18:00:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/229464624/
   free: true
 
