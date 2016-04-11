@@ -129,6 +129,13 @@
   when: !!str 2016-04-09 09:00:00
   url: http://it.droidcon.com/2016/hackathon-droidcon-italy/
   free: false
+
+201604111800:
+  organizer: Torino Coding Society
+  title: Javascript: le parti buoneJavascript: le parti buone
+  when: !!str 2016-04-11 19:30
+  url: http://l.welaika.com/1RUkHb8
+  free: true
   
 201604121800:
   organizer: WordPress Meetup Torino
