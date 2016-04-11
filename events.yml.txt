@@ -84,7 +84,7 @@
   url: https://www.eventbrite.it/e/biglietti-5-incontro-della-serie-linux-da-zero-2016-9-edizione-24222379790
   free: true
 
-201604010900:
+201604010999:
   organizer: WordPress Torino Meetup
   title: WordPress Contributor Day - Torino April 1
   when: !!str 2016-04-01 09:00:00
