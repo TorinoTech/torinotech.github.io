@@ -1,5 +1,8 @@
 # Torino Tech - torinotech.github.io
+
 ### l'aggregatore di tutti gli eventi tech di Torino!
+
+[![Gitter chat](https://badges.gitter.im/TorinoTech/chat.png)](https://gitter.im/TorinoTech/chat)
 
 Vai al [Regolamento](#regolamento)
 
