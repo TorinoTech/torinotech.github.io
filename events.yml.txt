@@ -164,6 +164,13 @@
   when: !!str 2016-05-02 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
+  
+201605101820:
+  organizer: WordPress Meetup Torino
+  title: Maggio 2016 Episodio 11: I Saved The World Today
+  when: !!str 2016-05-10 18:00:00
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/230325424/
+  free: true
 
 201605162100:
   organizer: Ninux Torino
