@@ -167,7 +167,7 @@
   
 201605101820:
   organizer: WordPress Meetup Torino
-  title: Maggio 2016 Episodio 11: I Saved The World Today
+  title: Maggio 2016 Episodio 11 I Saved The World Today
   when: !!str 2016-05-10 18:00:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/230325424/
   free: true
