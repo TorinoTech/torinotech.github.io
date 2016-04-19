@@ -158,6 +158,13 @@
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-open-data-24096344816
   free: true
 
+201605021930:
+  organizer: Torino Coding Society
+  title: Road to ES6
+  when: !!str 2016-05-02 19:30:00
+  url: http://l.welaika.com/1pdv13J
+  free: true
+  
 201605022100:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
