@@ -157,6 +157,13 @@
   when: !!str 2016-04-26 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-open-data-24096344816
   free: true
+  
+201604211830:
+  organizer: TorinoJS
+  title: "SOAJS Hangout"
+  when: !!str 2016-04-21 18:30:00
+  url: https://plus.google.com/u/0/events/cli3vldp3lrdt65n7oj9ogtpa00
+  free: true
 
 201605021930:
   organizer: Torino Coding Society
