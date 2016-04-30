@@ -199,3 +199,9 @@
   when: !!str 2016-05-30 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
+
+201606081900:
+  organizer: TorinoJS
+  title: "#jsNight 8giu2016"
+  when: !!str 2016-06-08 19:00:00
+  url: https://j.mp/26DCk6K
