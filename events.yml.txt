@@ -193,6 +193,13 @@
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
 
+201605241830:
+  organizer: Torino HackNight
+  title: Torino HackNight - Flowtime.js
+  when: !!str 2016-05-24 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-flowtimejs-25353801904
+  free: true
+
 201605302100:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
