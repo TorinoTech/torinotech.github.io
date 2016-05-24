@@ -212,3 +212,9 @@
   title: "#jsNight 8giu2016"
   when: !!str 2016-06-08 19:00:00
   url: https://j.mp/26DCk6K
+
+201607020900:
+  organizer: Django Girls Torino
+  title: "Django Girls: Workshop di programmazione per ragazze"
+  when: !!str 2016-07-02 09:00:00
+  url: https://djangogirls.org/turin/
