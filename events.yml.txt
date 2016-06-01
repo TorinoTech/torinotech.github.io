@@ -213,6 +213,13 @@
   when: !!str 2016-06-08 19:00:00
   url: https://j.mp/26DCk6K
 
+201606151830:
+  organizer: Torino Hacknight
+  title: Torino HackNight - python ❤ minecraft
+  when: !!str 2016-06-15 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-python-minecraft-25822896980
+  free: true
+
 201607020900:
   organizer: Django Girls Torino
   title: "Django Girls: Workshop di programmazione per ragazze"
