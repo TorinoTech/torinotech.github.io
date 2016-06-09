@@ -212,6 +212,13 @@
   title: "#jsNight 8giu2016"
   when: !!str 2016-06-08 19:00:00
   url: https://j.mp/26DCk6K
+  
+201606131930:
+  organizer: weLaika
+  title: Torino Coding Society – 2001 Odissea nello Spazio. Blade Runner. Matrix. Tu.
+  when: !!str 2016-06-13 19:30:00
+  url: http://l.welaika.com/1Y2go1I
+  free: true
 
 201606132100:
   organizer: Ninux Torino
