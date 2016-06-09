@@ -157,7 +157,7 @@
   when: !!str 2016-04-26 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-open-data-24096344816
   free: true
-  
+
 201604211830:
   organizer: TorinoJS
   title: "SOAJS Hangout"
@@ -171,14 +171,14 @@
   when: !!str 2016-05-02 19:30:00
   url: http://l.welaika.com/1pdv13J
   free: true
-  
+
 201605022100:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
   when: !!str 2016-05-02 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
-  
+
 201605101820:
   organizer: WordPress Meetup Torino
   title: Maggio 2016 Episodio 11 I Saved The World Today
@@ -213,6 +213,13 @@
   when: !!str 2016-06-08 19:00:00
   url: https://j.mp/26DCk6K
 
+201606132100:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: !!str 2016-06-13 21:00:00
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
 201606151830:
   organizer: Torino Hacknight
   title: Torino HackNight - python ❤ minecraft
@@ -220,8 +227,43 @@
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-python-minecraft-25822896980
   free: true
 
+201606272100:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: !!str 2016-06-27 21:00:00
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
 201607020900:
   organizer: Django Girls Torino
   title: "Django Girls: Workshop di programmazione per ragazze"
   when: !!str 2016-07-02 09:00:00
   url: https://djangogirls.org/turin/
+
+201607112100:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: !!str 2016-07-11 21:00:00
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
+201607252100:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: !!str 2016-07-25 21:00:00
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
+201608082100:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: !!str 2016-08-08 21:00:00
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
+
+201608222100:
+  organizer: Ninux Torino
+  title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
+  when: !!str 2016-08-22 21:00:00
+  url: http://ml.ninux.org/mailman/listinfo/torino
+  free: true
