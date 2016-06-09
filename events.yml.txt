@@ -219,6 +219,13 @@
   when: !!str 2016-06-13 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
+  
+201606141800:
+  organizer: Google Developer Group Torino
+  title: TRENDROID VOL.4.0
+  when: !!str 2016-06-14 18:00
+  url: https://www.eventbrite.it/e/biglietti-trendroid-vol40-25906907257
+  free: true
 
 201606151830:
   organizer: Torino Hacknight
