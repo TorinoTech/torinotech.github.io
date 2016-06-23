@@ -254,6 +254,13 @@
   when: !!str 2016-07-02 09:00:00
   url: https://djangogirls.org/turin/
 
+201607041930
+  organizer: weLaika
+  title: Torino Coding Society – Elixir di lunga vita
+  when: !!str 2016-07-04 19:30:00
+  url: http://l.welaika.com/28XHvqh 
+  free: true
+
 201607112100:
   organizer: Ninux Torino
   title: Incontro quindicinale (c/o Cascina Roccafranca - Locale "incubatore")
