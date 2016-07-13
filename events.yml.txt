@@ -267,6 +267,13 @@
   when: !!str 2016-07-11 21:00:00
   url: http://ml.ninux.org/mailman/listinfo/torino
   free: true
+  
+201607201900:
+  organizer: Turin Web Performance Group
+  title: «HTTP/2: Finalmente!» di Simone Bordet – Coworking Login, Via Pietro Micca 12 a Torino
+  when: !!str 2016-07-20 19:00
+  url: http://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/232439335/
+  free: true
 
 201607252100:
   organizer: Ninux Torino
