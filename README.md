@@ -18,7 +18,7 @@ Se non sai come funziona YAML o hai qualche dubbio verifica la correttezza della
 ``` yaml
 201512101930:
   organizer: User Group
-  title: (campo opzionale) Tante belle cose
+  title: "(campo opzionale) Tante belle cose, mettete le virgolette!"
   when: !!str 2015-12-10 19:30
   free: (campo opzionale) true|false (default: true) (se è richiesta la tessera non è free)
   url: https://url-evento-o-registrazione.com
