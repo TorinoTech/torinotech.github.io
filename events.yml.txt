@@ -270,7 +270,7 @@
   
 201607201900:
   organizer: Turin Web Performance Group
-  title: «HTTP/2: Finalmente!» di Simone Bordet – Coworking Login, Via Pietro Micca 12 a Torino
+  title: "«HTTP/2: Finalmente!» di Simone Bordet – Coworking Login"
   when: !!str 2016-07-20 19:00
   url: http://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/232439335/
   free: true
