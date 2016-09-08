@@ -1,3 +1,10 @@
+201609141800:
+  organizer: Wordpress Meetup TOrino
+  title: "WordPress Meetup Settembre 2016 Episodio 14: It's Alright"
+  when: !!str 2016-09-14 18:00:00
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/232920802/
+  free: true
+  
 201610261900:
   organizer: TorinoJS
   title: "#jsNight 26ott2016"
