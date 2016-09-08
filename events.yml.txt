@@ -1,3 +1,10 @@
+201610261900:
+  organizer: TorinoJS
+  title: "#jsNight 26ott2016"
+  when: !!str 2016-10-26 19:00:00
+  url: https://www.eventbrite.it/e/biglietti-torinojs-jsnight-26ott2016-incontro-su-javascript-e-tecnologie-web-open-source-27565167157
+  free: true
+
 201610222100:
   organizer: LinuxDay Torino
   title: "LinuxDay Torino 2016"
