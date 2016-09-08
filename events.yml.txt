@@ -18,3 +18,10 @@
   when: !!str 2016-10-22 13:00:00
   url: http://linuxdaytorino.org/
   free: true
+  
+201610221000:
+  organizer: Toolbox Coworking
+  title: "Freelance day 2016"
+  when: !!str 2016-10-22 10:00:00
+  url: http://www.toolboxoffice.it/freelanceday/
+  free: true
