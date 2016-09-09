@@ -1,4 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Raleway:400,400i,600,600i';
+@import 'https://fonts.googleapis.com/css?family=Lobster';
 
 /* Typescale */
 
@@ -48,6 +49,7 @@ h5, h6 {
 
 small, .font_small {font-size: 0.75em;}
 
+/* Wrapper */
 
 .wrapper {
   margin-left: auto;
@@ -64,6 +66,52 @@ small, .font_small {font-size: 0.75em;}
     display: table;
 
 }
+
+/* Header */
+
+.header {
+  font-family: 'Lobster', cursive;
+  color: #FFFFFF;
+  background-color: #2c3e50;
+  padding: 23px 0px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+
+/* Social */
+
+.social {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 1rem;
+  font-size: 0;
+}
+
+.social__item {
+  width: 25%;
+  display: inline-block;
+  box-sizing: border-box;
+  font-size: 2.5rem;
+}
+.social__item > a{
+  color: rgba(255, 255, 255, 0.5);
+}
+.social__item > a:hover{
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/*.social-icon {
+  font-size: 50px;
+  color: rgba(117, 89, 89, 0.14);
+}
+.social-icon:hover{
+  color:hsla(0,100%,0%,0.24);
+}*/
+
+
+
 
       li {
         list-style: none;
@@ -97,29 +145,8 @@ small, .font_small {font-size: 0.75em;}
         width: 130px;
         height: 130px;
       }
-      .header {
-        color: #7A7A7A;
-          background: radial-gradient(ellipse at center, #FFFFFF 0%,#ABABAB 100%);
-          font-size: 23px;
-          padding: 23px 0px;
-      }
-      .header .logo {
-        font-size: 9vw;
-      }
-      .header .logo-title {
-        font-size: 13vw;
-      }
-      .header .bracket {
-        font-size: 16vw;
-        font-family: sans-serif;
-      }
-      .social-icon {
-        font-size: 50px;
-        color: rgba(117, 89, 89, 0.14);
-      }
-      .social-icon:hover{
-        color:hsla(0,100%,0%,0.24);
-      }
+
+
       .latest-posts{
         background: #ccc;
       }
