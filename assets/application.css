@@ -1,0 +1,126 @@
+@import 'https://fonts.googleapis.com/css?family=PT+Sans+Narrow';
+
+pre code {
+  width: 960px;
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    -webkit-font-feature-settings: initial;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.container-wrapper {
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: .5rem;
+        padding-left: .5rem;
+        overflow: hidden;
+      }
+      li {
+        list-style: none;
+        margin-left: -30px;
+      }
+      li:before {
+        content:'. ';
+        float: left;
+      }
+      a {
+        color: #6B69BD;
+      }
+      a:hover {
+        color: #2C2C66;
+      }
+      section {
+        max-width: 1000px !important;
+        min-width: 320px !important;
+      }
+      body {
+        font-family: 'PT Sans Narrow', sans-serif;
+        margin: 0px;
+        /*font-size: 1.5rem;*/
+        font-size: 26px;
+        color: #765;
+      }
+
+      .avatar {
+        border: .5vh solid white;
+        border-radius: 22vh;
+        width: 130px;
+        height: 130px;
+      }
+      .header {
+        color: #7A7A7A;
+          background: radial-gradient(ellipse at center, #FFFFFF 0%,#ABABAB 100%);
+          font-size: 23px;
+          padding: 23px 0px;
+      }
+      .header .logo {
+        font-size: 9vw;
+      }
+      .header .logo-title {
+        font-size: 13vw;
+      }
+      .header .bracket {
+        font-size: 16vw;
+        font-family: sans-serif;
+      }
+      .social-icon {
+        font-size: 50px;
+        color: rgba(117, 89, 89, 0.14);
+      }
+      .social-icon:hover{
+        color:hsla(0,100%,0%,0.24);
+      }
+      .latest-posts{
+        background: #ccc;
+      }
+      .what-i-do{
+        margin-top: 6vw;
+        /*font-size: 26px;
+        color: #765;*/
+      }
+      .footer {
+        margin-top: 8vw;
+      }
+      .strong-more {
+        background:#FFFF9F;
+      }
+
+      .sticky-right {
+        position: fixed;
+        right: -73px;
+        background: #4040D8;
+        margin-top: -46px;
+        transform: rotate(25deg);
+        -ms-transform: rotate(25deg); /* IE 9 */
+        -webkit-transform: rotate(25deg); /* Safari */
+        width: 271px;
+        text-align: center;
+        padding-top: 60px;
+      }
+      .sticky-right a {
+        color: white;
+        text-decoration: none;
+        margin-left: 47px;
+      }
+      .blueBtn {
+        font-family: 'PT Sans Narrow',
+        sans-serif;background-color:#4040D8;
+        font-size: 23px;font-weight:normal;
+        height: 42px;margin-top: 10px;
+        color: white;
+        text-decoration: none;
+        padding: 6px;
+      }
+      .blueBtn:hover{
+        color:white;
+      }
+      .event-box h3 {
+        margin-bottom: auto;
+      }
+      .event-separator {
+        margin: 30px 0;
+        color: #BDBDBD;
+        border-bottom: 1px solid;
+      }
