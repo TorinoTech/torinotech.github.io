@@ -39,3 +39,10 @@
   when: !!str 2016-10-26 19:00:00
   url: https://www.eventbrite.it/e/biglietti-torinojs-jsnight-26ott2016-incontro-su-javascript-e-tecnologie-web-open-source-27565167157
   free: true
+
+201611081930:
+  organizer: Torino Coding Society
+  title: "Git Model Branching"
+  when: !!str 2016-11-08 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-8nov16/
+  free: true
