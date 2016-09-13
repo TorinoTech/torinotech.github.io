@@ -25,3 +25,10 @@
   when: !!str 2016-10-22 10:00:00
   url: http://www.toolboxoffice.it/freelanceday/
   free: true
+  
+201609201930:
+  organizer: WeLaika
+  title: "Torino Coding Society: La mia prima data pipeline"
+  when: !!str 2016-09-20 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-20sett16/
+  free: true
