@@ -6,12 +6,19 @@
   free: true
 
 201609201930:
-  organizer: WeLaika
-  title: "Torino Coding Society: La mia prima data pipeline"
+  organizer: Torino Coding Society
+  title: "La mia prima data pipeline"
   when: !!str 2016-09-20 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-20sett16/
   free: true
 
+201610111930:
+  organizer: Torino Coding Society
+  title: "Talk sui talk"
+  when: !!str 2016-10-11 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-11ott16/
+  free: true
+  
 201610221000:
   organizer: Toolbox Coworking
   title: "Freelance day 2016"
