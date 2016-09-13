@@ -4,21 +4,14 @@
   when: !!str 2016-09-14 18:00:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/232920802/
   free: true
-  
-201610261900:
-  organizer: TorinoJS
-  title: "#jsNight 26ott2016"
-  when: !!str 2016-10-26 19:00:00
-  url: https://www.eventbrite.it/e/biglietti-torinojs-jsnight-26ott2016-incontro-su-javascript-e-tecnologie-web-open-source-27565167157
+
+201609201930:
+  organizer: WeLaika
+  title: "Torino Coding Society: La mia prima data pipeline"
+  when: !!str 2016-09-20 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-20sett16/
   free: true
 
-201610222100:
-  organizer: LinuxDay Torino
-  title: "LinuxDay Torino 2016"
-  when: !!str 2016-10-22 13:00:00
-  url: http://linuxdaytorino.org/
-  free: true
-  
 201610221000:
   organizer: Toolbox Coworking
   title: "Freelance day 2016"
@@ -26,9 +19,16 @@
   url: http://www.toolboxoffice.it/freelanceday/
   free: true
   
-201609201930:
-  organizer: WeLaika
-  title: "Torino Coding Society: La mia prima data pipeline"
-  when: !!str 2016-09-20 19:30:00
-  url: http://torinocodingsociety.it/events/torino-coding-society-20sett16/
+201610222100:
+  organizer: LinuxDay Torino
+  title: "LinuxDay Torino 2016"
+  when: !!str 2016-10-22 13:00:00
+  url: http://linuxdaytorino.org/
+  free: true
+
+201610261900:
+  organizer: TorinoJS
+  title: "#jsNight 26ott2016"
+  when: !!str 2016-10-26 19:00:00
+  url: https://www.eventbrite.it/e/biglietti-torinojs-jsnight-26ott2016-incontro-su-javascript-e-tecnologie-web-open-source-27565167157
   free: true
