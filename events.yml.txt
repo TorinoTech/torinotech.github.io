@@ -12,6 +12,13 @@
   url: http://torinocodingsociety.it/events/torino-coding-society-20sett16/
   free: true
 
+201609271830:
+  organizer: Torino Hacknight
+  title: "Torino Hacknight - Caravel"
+  when: !!str 2016-09-27 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-hacknight-caravel-27714670325
+  free: true
+
 201610111930:
   organizer: Torino Coding Society
   title: "Talk sui talk"
