@@ -14,7 +14,7 @@
 
 201609271830:
   organizer: Torino Hacknight
-  title: "Torino Hacknight - Caravel"
+  title: "Caravel"
   when: !!str 2016-09-27 18:30:00
   url: https://www.eventbrite.com/e/biglietti-hacknight-caravel-27714670325
   free: true
