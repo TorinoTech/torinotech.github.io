@@ -25,6 +25,13 @@
   when: !!str 2016-10-11 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-11ott16/
   free: true
+
+201610121800:
+  organizer: Wordpress Meetup TOrino
+  title: "WordPress Meetup Ottobre 2016 Episodio 15: Hold your head up"
+  when: !!str 2016-10-12 18:00:00
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/234142424/
+  free: true
   
 201610221000:
   organizer: Toolbox Coworking
