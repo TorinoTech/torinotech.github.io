@@ -54,46 +54,43 @@
 </head>
 <body>
 
-<div class="sticky-right">
-  <a rel="nofollow" class="js-track" href="https://github.com/TorinoTech/torinotech.github.io/blob/master/README.md">Partecipa!</a>
-</div>
 
 
 <div class="header">
   <div class="wrapper">
     <h1>Torino Tech</h1>
-
-    <!-- social -->
-    <div class="social">
-      <div class="social__item">
-        <a href="https://www.facebook.com/TorinoTech"><i class="fa fa-facebook"></i></a>
-      </div>
-      <div class="social__item">
-        <a href="https://twitter.com/TorinoTech"><i class="fa fa-twitter"></i></a>
-      </div>
-      <div class="social__item">
-        <a href="https://github.com/TorinoTech"><i class="fa fa-github"></i></a>
-      </div>
-      <div class="social__item">
-        <a href="https://gitter.im/TorinoTech/chat"><i class="fa fa-weixin"></i></a>
-      </div>
-    </div>
+    <a rel="nofollow" class="js-track" href="https://github.com/TorinoTech/torinotech.github.io/blob/master/README.md">Partecipa!</a>
   </div>
 </div>
 
-<div class="wrapper">
-  <div class="what-i-do row">
-      <section class="col-xs-offset-0 col-xs-12 col-md-offset-1 col-md-10">
-        <p>
-          Tutti gli eventi Tech di Torino in una sola pagina! OpenSource, OpenData, OpenHardware. Vuoi sapere che cos'é TorinoTech? Leggi il <a href="https://github.com/TorinoTech/torinotech.github.io#regolamento">Regolamento</a> (è molto minimal, promesso!).
-          <br />Puoi anche segnalare un <a href="https://gitter.im/TorinoTech/lavoro">Annuncio di lavoro Tech</a> a Torino.
-        </p>
-
-        <div id="events-placeholder"></div>
-
-      </section>
+<div class="intro">
+  <div class="wrapper">
+    <section>
+      <p>
+        Tutti gli eventi Tech di Torino in una sola pagina! OpenSource, OpenData, OpenHardware. Vuoi sapere che cos'é TorinoTech? Leggi il <a href="https://github.com/TorinoTech/torinotech.github.io#regolamento">Regolamento</a> (è molto minimal, promesso!).
+        <br />Puoi anche segnalare un <a href="https://gitter.im/TorinoTech/lavoro">Annuncio di lavoro Tech</a> a Torino.
+      </p>
+    </section>
   </div>
-
+</div>
+<div class="wrapper">
+  <div id="events-placeholder"></div>
+</div>
+<div class="wrapper">
+  <div class="social">
+    <div class="social__item">
+      <a href="https://www.facebook.com/TorinoTech"><i class="fa fa-facebook"></i></a>
+    </div>
+    <div class="social__item">
+      <a href="https://twitter.com/TorinoTech"><i class="fa fa-twitter"></i></a>
+    </div>
+    <div class="social__item">
+      <a href="https://github.com/TorinoTech"><i class="fa fa-github"></i></a>
+    </div>
+    <div class="social__item">
+      <a href="https://gitter.im/TorinoTech/chat"><i class="fa fa-weixin"></i></a>
+    </div>
+  </div>
   <div class="footer">
       <section class="col-xs-offset-0 col-xs-7 col-md-offset-2 col-md-10">
           <div class="js-footer box" style="color:#999; font-size:14px; float:right;">
@@ -137,11 +134,10 @@
         latestMonth = el.when.getMonth()
       }
 
-      eventsHtml += '<div class="event-box" key='+key+'>' +
-                        '<h3>' + el.organizer + ((el.title) ? ': '+ el.title : '') + '</h3>' +
+      eventsHtml += '<div class="event-box" key='+key+'><small>' + el.organizer +'</small>'+
+                        '<h4><a href="' + el.url + '">' + ((el.title) ? el.title : '') + '</a></h4>' +
                         ((el.free || el.free == undefined) ? '<span style="color:green;">free</span> - ' : '') + el.when.toLocaleString('it', {timeZone: 'UTC'}) + ' - ' + el.when.toLocaleString('it' ,{weekday: 'long', timeZone: 'UTC'}) +'<br />' +
-                        '<a href="' + el.url + '">'+ el.url + '</a>' +
-                    '</div>'
+                        '</div>'
     }
 
     if (eventsHtml === '') eventsHtml = '<div>Non ci sono eventi in programma, perché non organizzi tu qualcosa?</div>'
