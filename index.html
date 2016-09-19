@@ -17,30 +17,16 @@
 
     <link rel="canonical" href="http://torinotech.github.io" />
 
-<style>
-pre code {
-  width: 960px;
-  display: block;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    -webkit-font-feature-settings: initial;
-    font-family: 'PT Sans Narrow', sans-serif;
-}
-</style>
-
     <script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "Website",
-    "publisher": "torinotech.github.io - Eventi tech a Torino",
-    "url": "http://torinotech.github.io",
-    "image": "https://cloud.githubusercontent.com/assets/8074/9904181/1be6a5a2-5c7c-11e5-818b-04e135a04309.png",
-    "description": "Eventi tech a Torino"
-}
+      {
+          "@context": "http://schema.org",
+          "@type": "Website",
+          "publisher": "torinotech.github.io - Eventi tech a Torino",
+          "url": "http://torinotech.github.io",
+          "image": "https://cloud.githubusercontent.com/assets/8074/9904181/1be6a5a2-5c7c-11e5-818b-04e135a04309.png",
+          "description": "Eventi tech a Torino"
+      }
     </script>
-
-    <!-- <meta name="google-site-verification" content="Y92xB07xT6xiRyPZ6V_Ch0W2zz0VODSsFmnKiq_Gc-4" /> -->
     <meta name=”keywords” content="torino tech, tecnologia, eventi, open source">
 
     <!-- Twitter Card -->
@@ -61,208 +47,50 @@ h1, h2, h3, h4, h5, h6 {
     <meta property="og:url" content="http://torinotech.github.io" />
     <meta property="og:image" content="http://torinotech.github.io/assets/full-bk.png" />
 
-    <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+    <!-- Style -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/application.css">
 
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/flexboxgrid/6.2.0/flexboxgrid.min.css" type="text/css" >
-
-    <style media="screen">
-      .container-wrapper {
-        margin-right: auto;
-        margin-left: auto;
-        padding-right: .5rem;
-        padding-left: .5rem;
-        overflow: hidden;
-      }
-      li {
-        list-style: none;
-        margin-left: -30px;
-      }
-      li:before {
-        content:'. ';
-        float: left;
-      }
-      a {
-        color: #6B69BD;
-      }
-      a:hover {
-        color: #2C2C66;
-      }
-      section {
-        max-width: 1000px !important;
-        min-width: 320px !important;
-      }
-      body {
-        font-family: 'PT Sans Narrow', sans-serif;
-        margin: 0px;
-        /*font-size: 1.5rem;*/
-        font-size: 26px;
-        color: #765;
-      }
-
-      .avatar {
-        border: .5vh solid white;
-        border-radius: 22vh;
-        width: 130px;
-	      height: 130px;
-      }
-      .header {
-        color: #7A7A7A;
-          background: radial-gradient(ellipse at center, #FFFFFF 0%,#ABABAB 100%);
-          font-size: 23px;
-          padding: 23px 0px;
-      }
-      .header .logo {
-        font-size: 9vw;
-      }
-      .header .logo-title {
-        font-size: 13vw;
-      }
-      .header .bracket {
-        font-size: 16vw;
-        font-family: sans-serif;
-      }
-      .social-icon {
-        font-size: 50px;
-        color: rgba(117, 89, 89, 0.14);
-      }
-      .social-icon:hover{
-        color:hsla(0,100%,0%,0.24);
-      }
-      .latest-posts{
-        background: #ccc;
-      }
-      .what-i-do{
-        margin-top: 6vw;
-        /*font-size: 26px;
-        color: #765;*/
-      }
-      .footer {
-        margin-top: 8vw;
-      }
-      .strong-more {
-        background:#FFFF9F;
-      }
-
-      .sticky-right {
-        position: fixed;
-        right: -73px;
-        background: #4040D8;
-        margin-top: -46px;
-        transform: rotate(25deg);
-        -ms-transform: rotate(25deg); /* IE 9 */
-        -webkit-transform: rotate(25deg); /* Safari */
-        width: 271px;
-        text-align: center;
-        padding-top: 60px;
-      }
-      .sticky-right a {
-        color: white;
-        text-decoration: none;
-        margin-left: 47px;
-      }
-      .blueBtn {
-        font-family: 'PT Sans Narrow',
-        sans-serif;background-color:#4040D8;
-        font-size: 23px;font-weight:normal;
-        height: 42px;margin-top: 10px;
-        color: white;
-        text-decoration: none;
-        padding: 6px;
-      }
-      .blueBtn:hover{
-        color:white;
-      }
-      .event-box h3 {
-        margin-bottom: auto;
-      }
-      .event-separator {
-        margin: 30px 0;
-        color: #BDBDBD;
-        border-bottom: 1px solid;
-      }
-    </style>
-
-    <!-- <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-267167-15', 'auto');
-      ga('send', 'pageview');
-
-    </script> -->
 </head>
 <body>
 
-<div class="sticky-right">
-  <a rel="nofollow" class="js-track" href="https://github.com/TorinoTech/torinotech.github.io/blob/master/README.md">Partecipa!</a>
+
+
+<div class="header">
+  <div class="wrapper">
+    <h1>Torino Tech</h1>
+    <a rel="nofollow" class="js-track" href="https://github.com/TorinoTech/torinotech.github.io/blob/master/README.md">Partecipa!</a>
+  </div>
 </div>
 
-<div class="container-wrapper">
-
-  <div class="header row center-xs middle-xs">
-      <section class="col-md-12">
-
-        <!-- logo -->
-        <div class="row row center-xs middle-xs">
-          <div class="box">
-            <span class="bracket">:</span>
-          </div>
-          <div class="box">
-            <span class="logo-title">-</span>
-          </div>
-          <div class="box">
-            <span class="bracket">0</span>
-          </div>
-        </div>
-
-        <!-- logo-title -->
-        <div class="row around-xs">
-          <div class="box">
-            <h1>Torino Tech</h1>
-          </div>
-        </div>
-
-        <!-- social -->
-        <div class="row around-xs">
-          <div class="col-xs-3">
-              <div class="box">
-                <a class="social-icon" href="https://www.facebook.com/TorinoTech"><i class="fa fa-facebook"></i></a>
-              </div>
-          </div>
-          <div class="col-xs-3">
-              <div class="box">
-                <a class="social-icon" href="https://twitter.com/TorinoTech"><i class="fa fa-twitter"></i></a>
-              </div>
-          </div>
-          <div class="col-xs-3">
-              <div class="box">
-                <a class="social-icon" href="https://github.com/TorinoTech"><i class="fa fa-github"></i></a>
-              </div>
-          </div>
-          <div class="col-xs-3">
-              <div class="box">
-                <a class="social-icon" href="https://gitter.im/TorinoTech/chat"><i class="fa fa-weixin"></i></a>
-              </div>
-          </div>
-      </div>
-
-      </section>
+<div class="intro">
+  <div class="wrapper">
+    <section>
+      <p>
+        Tutti gli eventi Tech di Torino in una sola pagina! OpenSource, OpenData, OpenHardware. Vuoi sapere che cos'é TorinoTech? Leggi il <a href="https://github.com/TorinoTech/torinotech.github.io#regolamento">Regolamento</a> (è molto minimal, promesso!).
+        <br />Puoi anche segnalare un <a href="https://gitter.im/TorinoTech/lavoro">Annuncio di lavoro Tech</a> a Torino.
+      </p>
+    </section>
   </div>
-
-  <div class="what-i-do row">
-      <section class="col-xs-offset-0 col-xs-12 col-md-offset-1 col-md-10">
-        <p>
-          Tutti gli eventi Tech di Torino in una sola pagina! OpenSource, OpenData, OpenHardware. Vuoi sapere che cos'é TorinoTech? Leggi il <a href="https://github.com/TorinoTech/torinotech.github.io#regolamento">Regolamento</a> (è molto minimal, promesso!).
-          <br />Puoi anche segnalare un <a href="https://gitter.im/TorinoTech/lavoro">Annuncio di lavoro Tech</a> a Torino.
-        </p>
-
-        <div id="events-placeholder"></div>
-
-      </section>
+</div>
+<div class="wrapper">
+  <div id="events-placeholder"></div>
+</div>
+<div class="wrapper">
+  <div class="social">
+    <div class="social__item">
+      <a href="https://www.facebook.com/TorinoTech"><i class="fa fa-facebook"></i></a>
+    </div>
+    <div class="social__item">
+      <a href="https://twitter.com/TorinoTech"><i class="fa fa-twitter"></i></a>
+    </div>
+    <div class="social__item">
+      <a href="https://github.com/TorinoTech"><i class="fa fa-github"></i></a>
+    </div>
+    <div class="social__item">
+      <a href="https://gitter.im/TorinoTech/chat"><i class="fa fa-weixin"></i></a>
+    </div>
   </div>
-
   <div class="footer">
       <section class="col-xs-offset-0 col-xs-7 col-md-offset-2 col-md-10">
           <div class="js-footer box" style="color:#999; font-size:14px; float:right;">
@@ -275,7 +103,6 @@ h1, h2, h3, h4, h5, h6 {
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.6/zepto.min.js
 "></script>
-<!-- <script type="text/javascript" src="//cdn.jsdelivr.net/cookie-bar/1/cookiebar-latest.js?remember=1200&privacyPage=%2Fcookie-law"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.5.2/js-yaml.min.js"></script>
 
 <script>
@@ -307,11 +134,10 @@ h1, h2, h3, h4, h5, h6 {
         latestMonth = el.when.getMonth()
       }
 
-      eventsHtml += '<div class="event-box" key='+key+'>' +
-                        '<h3>' + el.organizer + ((el.title) ? ': '+ el.title : '') + '</h3>' +
+      eventsHtml += '<div class="event-box" key='+key+'><small>' + el.organizer +'</small>'+
+                        '<h4><a href="' + el.url + '">' + ((el.title) ? el.title : '') + '</a></h4>' +
                         ((el.free || el.free == undefined) ? '<span style="color:green;">free</span> - ' : '') + el.when.toLocaleString('it', {timeZone: 'UTC'}) + ' - ' + el.when.toLocaleString('it' ,{weekday: 'long', timeZone: 'UTC'}) +'<br />' +
-                        '<a href="' + el.url + '">'+ el.url + '</a>' +
-                    '</div>'
+                        '</div>'
     }
 
     if (eventsHtml === '') eventsHtml = '<div>Non ci sono eventi in programma, perché non organizzi tu qualcosa?</div>'
@@ -326,13 +152,5 @@ h1, h2, h3, h4, h5, h6 {
   })
 
 </script>
-
-
-<!-- <link rel="stylesheet" href="https://highlightjs.org/static/code.css"> -->
-<!-- <script src="https://highlightjs.org/static/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script> -->
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
 </body>
 </html>
