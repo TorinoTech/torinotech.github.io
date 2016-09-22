@@ -33,6 +33,13 @@
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/234142424/
   free: true
   
+201610131700:
+  organizer: Fondazione dell'Ordine degli Ingegneri della Provincia di Torino
+  title: "L'impresa innovativa e open source"
+  when: !!str 2016-10-13 17:00
+  free: true
+  url: http://www.foit.it/corsi/web-e-informatica/dettaglievento/918
+  
 201610221000:
   organizer: Toolbox Coworking
   title: "Freelance day 2016"
