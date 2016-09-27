@@ -31,7 +31,7 @@
   title: "L'impresa innovativa e open source"
   when: !!str 2016-10-13 17:00
   free: true
-  url: http://www.foit.it/corsi/web-e-informatica/dettaglievento/918
+  url: http://dmainardi.github.io/impresaInnovativaOpenSource
   
 201610181930:
   organizer: Torino Coding Society
