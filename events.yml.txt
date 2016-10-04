@@ -60,6 +60,13 @@
   when: !!str 2016-10-26 19:00:00
   url: https://www.eventbrite.it/e/biglietti-torinojs-jsnight-26ott2016-incontro-su-javascript-e-tecnologie-web-open-source-27565167157
   free: true
+  
+201611051900:
+  organizer: LibreItalia
+  title: "3° Conferenza LibreItalia Torino"
+  when: !!str 2016-11-05 09:00:00
+  url: https://www.eventbrite.it/e/biglietti-3-conferenza-libreitalia-torino-28282883867
+  free: true
 
 201611081930:
   organizer: Torino Coding Society
