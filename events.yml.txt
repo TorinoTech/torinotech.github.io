@@ -70,7 +70,7 @@
 
 201611081930:
   organizer: Torino Coding Society
-  title: "Git Model Branching"
+  title: "Git to the Feature"
   when: !!str 2016-11-08 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-8nov16/
   free: true
