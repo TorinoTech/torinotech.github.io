@@ -68,6 +68,13 @@
   url: https://www.eventbrite.it/e/biglietti-3-conferenza-libreitalia-torino-28282883867
   free: true
 
+201611071830:
+  organizer: Torino Hacknight
+  title: "LibreOffice"
+  when: !!str 2016-11-07 18:30:00
+  url: https://www.eventbrite.com/e/torino-hacknight-libreoffice-tickets-28694636430
+  free: true
+
 201611081930:
   organizer: Torino Coding Society
   title: "Git to the Feature"
