@@ -75,9 +75,17 @@
   url: http://torinocodingsociety.it/events/torino-coding-society-8nov16/
   free: true
   
+
 201611291930:
   organizer: Torino Coding Society
   title: "Hanami"
   when: !!str 2016-11-29 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-29nov16/
+  free: true
+
+201612131930:
+  organizer: Torino Coding Society
+  title: "Docker su architetture ARM"
+  when: !!str 2016-12-13 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-13dic16/
   free: true
