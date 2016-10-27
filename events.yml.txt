@@ -75,8 +75,6 @@
   url: http://torino.hacknight.it/2016/10/19/libreoffice/
   free: true
 
-http://torino.hacknight.it/2016/10/19/libreoffice/
-
 201611081930:
   organizer: Torino Coding Society
   title: "Git to the Feature"
