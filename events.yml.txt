@@ -81,7 +81,13 @@
   when: !!str 2016-11-08 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-8nov16/
   free: true
-  
+
+201611091800:
+  organizer: Wordpress Meetup TOrino
+  title: "WordPress Meetup Novembre 2016 Episodio 16: Precious"
+  when: !!str 2016-11-09 18:00:00
+  url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/234938015/
+  free: true  
 
 201611291930:
   organizer: Torino Coding Society
