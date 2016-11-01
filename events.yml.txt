@@ -89,7 +89,7 @@
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/234938015/
   free: true  
   
-201611091800:
+201611111800:
   organizer: WordPress Meetup Torino
   title: "Contributor Night #1 - Team Core"
   when: !!str 2016-11-11 18:30:00
