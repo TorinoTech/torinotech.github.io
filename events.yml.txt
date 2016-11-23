@@ -103,7 +103,7 @@
   url: http://torinocodingsociety.it/events/torino-coding-society-29nov16/
   free: true
 
-201611231800
+201611231800:
   organizer: Comitato Linux Day Torino
   title: "Corso: Installiamo insieme una distribuzione GNU/Linux"
   when: !!str 2016-11-23 18:00:00
