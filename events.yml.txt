@@ -113,7 +113,7 @@
 201612071800:
  organizer: Comitato Linux Day Torino
  title: "Corso: I comandi di base di un sistema GNU/Linux"
- when: !!str 2016-11-07 18:00:00
+ when: !!str 2016-12-07 18:00:00
  url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-command-line
  free: true
 
