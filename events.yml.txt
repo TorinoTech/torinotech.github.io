@@ -103,6 +103,13 @@
   url: http://torinocodingsociety.it/events/torino-coding-society-29nov16/
   free: true
 
+201611231800
+  organizer: Comitato Linux Day Torino
+  title: "Corso: Installiamo insieme una distribuzione GNU/Linux"
+  when: !!str 2016-11-23 18:00:00
+  url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-installation
+  free: true
+
 201612131930:
   organizer: Torino Coding Society
   title: "Docker su architetture ARM"
