@@ -109,12 +109,19 @@
   when: !!str 2016-11-23 18:00:00
   url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-installation
   free: true
-  
+
+201611301800:
+  organizer: Comitato Linux Day Torino
+  title: "Manutenzione di un sistema basato su Debian"
+  when: !!str 2016-11-30 18:00:00
+  url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-installation
+  free: true
+
 201612071800:
  organizer: Comitato Linux Day Torino
  title: "Corso: I comandi di base di un sistema GNU/Linux"
  when: !!str 2016-12-07 18:00:00
- url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-command-line
+ url: http://linuxdaytorino.org/2016/learning/gnu-linux-base-debian-maintenance
  free: true
 
 201612131930:
