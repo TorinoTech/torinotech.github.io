@@ -130,3 +130,10 @@
   when: !!str 2016-12-13 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-13dic16/
   free: true
+
+201612151830:
+  organizer: Torino Hacknight
+  title: "Docker per IoT"
+  when: !!str 2016-12-15 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-docker-per-iot-29796192213
+  free: true
