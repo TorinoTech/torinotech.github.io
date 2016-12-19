@@ -137,3 +137,10 @@
   when: !!str 2016-12-15 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-docker-per-iot-29796192213
   free: true
+
+201612201900:
+  organizer: DataBeers Torino
+  title: "Data Beer"
+  when: !!str 2016-12-20 19:00:00
+  url: https://www.eventbrite.com/e/meetup-december-20-2016-1900-rinascimenti-sociali-tickets-29973016098
+  free: true
