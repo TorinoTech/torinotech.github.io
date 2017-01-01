@@ -144,3 +144,17 @@
   when: !!str 2016-12-20 19:00:00
   url: https://www.eventbrite.com/e/meetup-december-20-2016-1900-rinascimenti-sociali-tickets-29973016098
   free: true
+
+201701101930:
+  organizer: Torino Coding Society
+  title: "Rust: perché e perché no?"
+  when: !!str 2017-01-10 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-10gen17/
+  free: true
+
+201701121830:
+  organizer: Torino Hacknight
+  title: "Rust"
+  when: !!str 2017-01-12 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-rust-30794009712
+  free: true
