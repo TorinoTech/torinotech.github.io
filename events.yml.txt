@@ -161,7 +161,7 @@
 
 201702231830:
   organizer: Torino Hacknight
-  title: "Rust"
+  title: "Tracking exposed"
   when: !!str 2017-02-23 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-tracking-exposed-31488474876
   free: true
