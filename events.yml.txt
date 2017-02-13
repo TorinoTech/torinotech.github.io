@@ -165,3 +165,10 @@
   when: !!str 2017-02-23 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-tracking-exposed-31488474876
   free: true
+
+201702281930:
+  organizer: Torino Coding Society
+  title: "Electron"
+  when: !!str 2017-02-28 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-28feb17/
+  free: true
