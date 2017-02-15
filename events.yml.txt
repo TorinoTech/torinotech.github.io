@@ -172,3 +172,17 @@
   when: !!str 2017-02-28 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-28feb17/
   free: true
+  
+201702201930:
+  organizer: Bitcoin Torino
+  title: "Serata Lisk"
+  when: !!str 2017-02-20 20:30:00
+  url: https://www.meetup.com/Meetup-Bitcoin-Torino/events/237397309/
+  free: true
+  
+201702161930:
+  organizer: Torino .NET
+  title: "Typescript"
+  when: !!str 2017-02-16 19:00:00
+  url: https://www.meetup.com/Torino-NET-User-Group/events/237341182/
+  free: true
