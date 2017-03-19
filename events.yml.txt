@@ -186,3 +186,10 @@
   when: !!str 2017-02-16 19:00:00
   url: https://www.meetup.com/Torino-NET-User-Group/events/237341182/
   free: true
+
+201703301830:
+  organizer: Torino Hacknight
+  title: "Odoo"
+  when: !!str 2017-03-30 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-odoo-32985766315
+  free: true
