@@ -193,3 +193,10 @@
   when: !!str 2017-03-30 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-odoo-32985766315
   free: true
+
+201703311900:
+  organizer: Turin Web Performance Group
+  title: "5° incontro Web Perf Turin: «Le web performance come esperienza religiosa»"
+  when: !!str 2017-03-31 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/238586495/
+  free: true
