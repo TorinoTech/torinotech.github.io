@@ -200,3 +200,10 @@
   when: !!str 2017-03-31 19:00:00
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/238586495/
   free: true
+
+201704051900:
+  organizer: Agile Lab
+  title: "Database NoSQL: OrientDB e Cassandra"
+  when: !!str 2017-04-05 19:00:00
+  url: http://meetu.ps/383fsL
+  free: true
