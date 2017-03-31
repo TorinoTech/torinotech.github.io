@@ -207,3 +207,17 @@
   when: !!str 2017-04-05 19:00:00
   url: http://meetu.ps/383fsL
   free: true
+  
+201704071000:
+  organizer: WordPress Community
+  title: "Contributor Day – WordCamp Torino 2017"
+  when: !!str 2017-04-07 10:00:00
+  url: https://2017.torino.wordcamp.org/2017/01/19/il-contributor-day/
+  free: false
+
+201704080845:
+  organizer: WordPress Community
+  title: "WordCamp Torino 2017"
+  when: !!str 2017-04-08 08:45:00
+  url: https://2017.torino.wordcamp.org/schedule/
+  free: false
