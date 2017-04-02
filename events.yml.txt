@@ -221,3 +221,10 @@
   when: !!str 2017-04-08 08:45:00
   url: https://2017.torino.wordcamp.org/schedule/
   free: false
+
+201704201830:
+  organizer: Torino Hacknight
+  title: "Zend Framework"
+  when: !!str 2017-04-20 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-zend-framework-33378097789
+  free: true
