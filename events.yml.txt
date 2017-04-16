@@ -237,7 +237,7 @@
   free: true
 
 201704272030:
-  organizer: Fablab Torino IoT Track
+  organizer: Arduino User Group Torino
   title: "LoRa, who are you?"
   when: !!str 2017-04-27 20:30:00
   url: https://www.facebook.com/events/1246709498709987/
