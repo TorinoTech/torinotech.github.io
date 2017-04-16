@@ -242,3 +242,10 @@
   when: !!str 2017-04-27 20:30:00
   url: https://www.facebook.com/events/1246709498709987/
   free: true
+
+201705201500:
+  organizer: La Palla Giocattoli, To MAke Eventi
+  title: "Expo Mattoncino 3"
+  when: !!str 2017-05-20 15:00:00
+  url: https://www.facebook.com/events/435483243454658/
+  free: false
