@@ -235,3 +235,10 @@
   when: !!str 2017-04-22 09:30:00
   url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/238928372/
   free: true
+
+201704272030:
+  organizer: Fablab Torino IoT Track
+  title: "LoRa, who are you?"
+  when: !!str 2017-04-27 20:30:00
+  url: https://www.facebook.com/events/1246709498709987/
+  free: true
