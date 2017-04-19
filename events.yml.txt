@@ -242,3 +242,10 @@
   when: !!str 2017-04-27 20:30:00
   url: https://www.facebook.com/events/1246709498709987/
   free: true
+
+201704261900:
+  organizer: Turin Web Performance Group
+  title: "6° incontro dei web performance warriors della zona di Torino"
+  when: !!str 2017-04-26 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239041727/
+  free: true
