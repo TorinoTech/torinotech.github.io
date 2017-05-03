@@ -256,3 +256,10 @@
   when: !!str 2017-05-25 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-angularjs-pdf-34191758470
   free: true
+  
+201705161900:
+  organizer: Turin Web Performance Group
+  title: "7° meetup Turin Web Perf: Le novità e le performance di PHP 7 con Enrico Zimuel"
+  when: !!str 2017-05-16 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239691328/
+  free: true
