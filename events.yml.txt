@@ -250,6 +250,13 @@
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239041727/
   free: true
 
+201705200930:
+  organizer: Torino Open Source Saturday
+  title: "Secondo Torino Open Source Saturday"
+  when: !!str 2017-05-20 09:30:00
+  url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/239724701/
+  free: true
+
 201705251830:
   organizer: Torino Hacknight
   title: "AngularJS-pdf"
