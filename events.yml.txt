@@ -270,3 +270,10 @@
   when: !!str 2017-05-16 19:00:00
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239691328/
   free: true
+
+201705271000:
+  organizer: Fablab Torino
+  title: "Torino Mini Maker Faire 2017"
+  when: !!str 2017-05-27 10:00:00
+  url: http://torino.makerfaire.com/
+  free: true
