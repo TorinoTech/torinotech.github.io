@@ -236,6 +236,13 @@
   url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/238928372/
   free: true
 
+201704261900:
+  organizer: Turin Web Performance Group
+  title: "6° incontro dei web performance warriors della zona di Torino"
+  when: !!str 2017-04-26 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239041727/
+  free: true
+
 201704272030:
   organizer: Arduino User Group Torino
   title: "LoRa, who are you?"
@@ -243,11 +250,11 @@
   url: https://www.facebook.com/events/1246709498709987/
   free: true
 
-201704261900:
+201705161900:
   organizer: Turin Web Performance Group
-  title: "6° incontro dei web performance warriors della zona di Torino"
-  when: !!str 2017-04-26 19:00:00
-  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239041727/
+  title: "7° meetup Turin Web Perf: Le novità e le performance di PHP 7 con Enrico Zimuel"
+  when: !!str 2017-05-16 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239691328/
   free: true
 
 201705200930:
@@ -264,13 +271,6 @@
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-angularjs-pdf-34191758470
   free: true
   
-201705161900:
-  organizer: Turin Web Performance Group
-  title: "7° meetup Turin Web Perf: Le novità e le performance di PHP 7 con Enrico Zimuel"
-  when: !!str 2017-05-16 19:00:00
-  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239691328/
-  free: true
-
 201705251900:
   organizer: Torino Odoo Meetup
   title: "Torino Odoo Meetup (Gratuito) (4/4) Contabilit&agrave; Generale"
