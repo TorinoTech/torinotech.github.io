@@ -271,6 +271,13 @@
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/239691328/
   free: true
 
+201705251900:
+  organizer: Torino Odoo Meetup
+  title: "Torino Odoo Meetup (Gratuito) (4/4) Contabilit&agrave; Generale"
+  when: !!str 2017-05-25 19:00:00
+  url: https://www.eventbrite.it/e/biglietti-torino-odoo-meetup-gratuito-44-contabilita-generale-34317813504
+  free: true
+
 201705271000:
   organizer: Fablab Torino
   title: "Torino Mini Maker Faire 2017"
