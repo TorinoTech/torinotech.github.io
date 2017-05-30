@@ -284,3 +284,17 @@
   when: !!str 2017-05-27 10:00:00
   url: http://torino.makerfaire.com/
   free: true
+
+201706151830:
+  organizer: Torino Hacknight
+  title: "OONI"
+  when: !!str 2017-06-15 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-ooni-34982143533
+  free: true
+
+201706170930:
+  organizer: Torino Open Source Saturday
+  title: "Terzo Torino Open Source Saturday"
+  when: !!str 2017-06-17 09:30:00
+  url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/240392923/
+  free: true
