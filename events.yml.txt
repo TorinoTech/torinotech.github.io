@@ -298,3 +298,10 @@
   when: !!str 2017-06-17 09:30:00
   url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/240392923/
   free: true
+
+201706261900:
+  organizer: Turin Web Performance Group
+  title: "8° Meetup Turin Web Performance"
+  when: !!str 2017-06-26 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/240474620/
+  free: true
