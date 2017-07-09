@@ -305,3 +305,10 @@
   when: !!str 2017-06-26 19:00:00
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/240474620/
   free: true
+  
+  201707271900:
+  organizer: Turin Web Performance Group
+  title: "9° Meetup Turin Web Performance: animazioni per il web a 60 fps"
+  when: !!str 2017-07-27 19:00:00
+  url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/241394003/
+  free: true
