@@ -312,3 +312,24 @@
   when: !!str 2017-07-27 19:00:00
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/241394003/
   free: true
+
+201709041830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-09-04 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/242125294/
+  free: true
+
+201709111830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-09-11 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/242364877/
+  free: true
+
+201709181830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-09-18 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/242364885/
+  free: true
