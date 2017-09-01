@@ -25,14 +25,14 @@
   when: !!str 2016-10-12 18:00:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/234142424/
   free: true
-  
+
 201610131700:
   organizer: Fondazione dell'Ordine degli Ingegneri della Provincia di Torino
   title: "L'impresa innovativa e open source"
   when: !!str 2016-10-13 17:00
   free: true
   url: http://dmainardi.github.io/impresaInnovativaOpenSource
-  
+
 201610181930:
   organizer: Torino Coding Society
   title: "Talk sui talk"
@@ -46,7 +46,7 @@
   when: !!str 2016-10-22 10:00:00
   url: http://www.toolboxoffice.it/freelanceday/
   free: true
-  
+
 201610222100:
   organizer: LinuxDay Torino
   title: "LinuxDay Torino 2016"
@@ -60,7 +60,7 @@
   when: !!str 2016-10-26 19:00:00
   url: https://www.eventbrite.it/e/biglietti-torinojs-jsnight-26ott2016-incontro-su-javascript-e-tecnologie-web-open-source-27565167157
   free: true
-  
+
 201611051900:
   organizer: LibreItalia
   title: "3° Conferenza LibreItalia Torino"
@@ -87,15 +87,15 @@
   title: "WordPress Meetup Novembre 2016 Episodio 16: Precious"
   when: !!str 2016-11-09 18:00:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/234938015/
-  free: true  
-  
+  free: true
+
 201611111800:
   organizer: WordPress Meetup Torino
   title: "Contributor Night #1 - Team Core"
   when: !!str 2016-11-11 18:30:00
   url: http://www.meetup.com/it-IT/WordPress-Meetup-Torino/events/235251911/
-  free: true   
-  
+  free: true
+
 201611291930:
   organizer: Torino Coding Society
   title: "Hanami"
@@ -172,14 +172,14 @@
   when: !!str 2017-02-28 19:30:00
   url: http://torinocodingsociety.it/events/torino-coding-society-28feb17/
   free: true
-  
+
 201702201930:
   organizer: Bitcoin Torino
   title: "Serata Lisk"
   when: !!str 2017-02-20 20:30:00
   url: https://www.meetup.com/Meetup-Bitcoin-Torino/events/237397309/
   free: true
-  
+
 201702161930:
   organizer: Torino .NET
   title: "Typescript"
@@ -207,7 +207,7 @@
   when: !!str 2017-04-05 19:00:00
   url: http://meetu.ps/383fsL
   free: true
-  
+
 201704071000:
   organizer: WordPress Community
   title: "Contributor Day – WordCamp Torino 2017"
@@ -270,7 +270,7 @@
   when: !!str 2017-05-25 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-angularjs-pdf-34191758470
   free: true
-  
+
 201705251900:
   organizer: Torino Odoo Meetup
   title: "Torino Odoo Meetup (Gratuito) (4/4) Contabilit&agrave; Generale"
@@ -305,8 +305,8 @@
   when: !!str 2017-06-26 19:00:00
   url: https://www.meetup.com/it-IT/Turin-Web-Performance-Group/events/240474620/
   free: true
-  
-  201707271900:
+
+201707271900:
   organizer: Turin Web Performance Group
   title: "9° Meetup Turin Web Performance: animazioni per il web a 60 fps"
   when: !!str 2017-07-27 19:00:00
