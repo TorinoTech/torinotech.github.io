@@ -320,6 +320,13 @@
   url: https://www.meetup.com/turn-into-coders/events/242125294/
   free: true
 
+201709090930:
+  organizer: Torino Open Source Saturday
+  title: "Quarto Torino Open Source Saturday"
+  when: !!str 2017-09-09 09:30:00
+  url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/242964356/
+  free: true
+
 201709111830:
   organizer: Turn into Coders
   title: Coding for everyone
