@@ -340,3 +340,38 @@
   when: !!str 2017-09-18 18:30:00
   url: https://www.meetup.com/turn-into-coders/events/242364885/
   free: true
+
+201709251830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-09-25 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/243359156/
+  free: true
+
+201710021830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-10-02 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/mqkxknywnbdb/
+  free: true
+
+201710091830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-10-09 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/mqkxknywnbmb/
+  free: true
+
+201710121900:
+  organizer: CNCF Italy
+  title: Kubernetes from the beginning to Rock! with CoreOS & Cognitio
+  when: !!str 2017-10-12 19:3=00:00
+  url: https://www.meetup.com/CNCF-Italy/events/243039837/
+  free: true
+
+201710161830:
+  organizer: Turn into Coders
+  title: Coding for everyone
+  when: !!str 2017-10-16 18:30:00
+  url: https://www.meetup.com/turn-into-coders/events/mqkxknywnbvb/
+  free: true
