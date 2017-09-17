@@ -375,3 +375,10 @@
   when: !!str 2017-10-16 18:30:00
   url: https://www.meetup.com/turn-into-coders/events/mqkxknywnbvb/
   free: true
+  
+201710281300:
+  organizer: Comitato Linux Day Torino
+  title: Linux Day Torino
+  when: !!str 2017-10-28 13:00:00
+  url: https://linuxdaytorino.org/2017/
+  free: true
