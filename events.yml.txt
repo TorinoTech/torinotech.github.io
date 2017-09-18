@@ -365,7 +365,7 @@
 201710121900:
   organizer: CNCF Italy
   title: Kubernetes from the beginning to Rock! with CoreOS & Cognitio
-  when: !!str 2017-10-12 19:3=00:00
+  when: !!str 2017-10-12 19:00:00
   url: https://www.meetup.com/CNCF-Italy/events/243039837/
   free: true
 
