@@ -375,6 +375,13 @@
   when: !!str 2017-10-16 18:30:00
   url: https://www.meetup.com/turn-into-coders/events/mqkxknywnbvb/
   free: true
+
+201710191830:
+  organizer: Torino Hacknight
+  title: "UX Testing"
+  when: !!str 2017-10-19 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-ux-testing-38437880736
+  free: true
   
 201710281300:
   organizer: Comitato Linux Day Torino
