@@ -382,14 +382,14 @@
   when: !!str 2017-10-19 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-ux-testing-38437880736
   free: true
-  
+
 201710261900:
   organizer: Turin Web Performance Group
   title: 11° Turin Web Perf: NGINX e le performance lato server
   when: !!str 2017-10-26 19:00:00
   url: https://www.meetup.com/it-IT/preview/Turin-Web-Performance-Group/events/243797565
   free: true
-  
+
 201710281300:
   organizer: Comitato Linux Day Torino
   title: Linux Day Torino
