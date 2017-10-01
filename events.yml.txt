@@ -385,7 +385,7 @@
 
 201710261900:
   organizer: Turin Web Performance Group
-  title: 11° Turin Web Perf: NGINX e le performance lato server
+  title: "11° Turin Web Perf: NGINX e le performance lato server"
   when: !!str 2017-10-26 19:00:00
   url: https://www.meetup.com/it-IT/preview/Turin-Web-Performance-Group/events/243797565
   free: true
