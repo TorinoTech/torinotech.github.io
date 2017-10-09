@@ -396,3 +396,10 @@
   when: !!str 2017-10-28 13:00:00
   url: https://linuxdaytorino.org/2017/
   free: true
+
+201710281200:
+  organizer: Torino Open Source Saturday @ Linux Day
+  title: "Quinto Torino Open Source Saturday"
+  when: !!str 2017-10-28 12:00:00
+  url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/243958444/
+  free: true
