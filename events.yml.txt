@@ -404,6 +404,13 @@
   url: https://linuxdaytorino.org/2017/
   free: true
 
+201711181000:
+  organizer: Torino Open Source Saturday
+  title: "Sesto Torino Open Source Saturday"
+  when: !!str 2017-11-18 10:00:00
+  url: https://www.meetup.com/it-IT/open-source-saturday-torino/events/244660289/
+  free: true
+
 201711291830:
   organizer: Torino Hacknight
   title: "InfluxDB: da 0 a 100"
