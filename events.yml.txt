@@ -403,3 +403,10 @@
   when: !!str 2017-10-28 13:00:00
   url: https://linuxdaytorino.org/2017/
   free: true
+
+201711291830:
+  organizer: Torino Hacknight
+  title: "InfluxDB: da 0 a 100"
+  when: !!str 2017-11-29 18:30:00
+  url: https://www.eventbrite.com/e/biglietti-torino-hacknight-influxdb-da-0-a-100-39523785707
+  free: true
