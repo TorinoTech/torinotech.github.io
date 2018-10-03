@@ -96,9 +96,9 @@ L’evento. Qualche settimana prima verrà aperto un evento su Eventbrite.
 
 # Dev Contributes
 
-Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni per far partire il server in locale usando node.js ed express.js.
+Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni per far partire il server in locale usando [Node.js](https://nodejs.org/) ed [Express.js](http://expressjs.com/).
 
-1. Assicurati di aver installato node.js
+1. Assicurati di aver installato Node.js
 2. Installa le dipendenze con `npm install` dalla cartella del progetto
 3. Lancia il server con `node app.js`
 4. Apri il browser e raggiungi l'indirizzo <http://localhost:3000>
