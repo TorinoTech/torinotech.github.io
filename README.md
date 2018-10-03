@@ -37,8 +37,8 @@ Se vuoi modificare o provare in locale il sito TorinoTech hai bisogno di un web 
 ## TODO
 
 - [x] Iniziare
-- [x] Integrare le modifiche fatte al repo con i social facebook e twitter
-- [ ] Convincere le persone a modificare un file su Github per tenere i dati aggiornati
+- [x] Integrare le modifiche fatte al repo con i social Facebook e Twitter
+- [ ] Convincere le persone a modificare un file su GitHub per tenere i dati aggiornati
 - [x] Differenziare gli eventi gratuiti da quelli a pagamento
 
 ### Cosa si intende con eventi tech Open * ?
