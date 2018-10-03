@@ -102,3 +102,5 @@ Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni
 2. Installa le dipendenze con `npm install` dalla cartella del progetto
 3. Lancia il server con `node app.js`
 4. Apri il browser e raggiungi l'indirizzo <http://localhost:3000>
+
+<!-- EOF -->
