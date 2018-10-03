@@ -94,7 +94,7 @@ Le 4 issue che prendono più voti entrano nel buffer dell’evento TorinoTech. A
 
 L’evento. Qualche settimana prima verrà aperto un evento su Eventbrite.
 
-### Dev Contributes
+# Dev Contributes
 
 Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni per far partire il server in locale usando node.js ed express.js.
 
