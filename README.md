@@ -34,7 +34,8 @@ Se non sei sicuro puoi comunque testare il sito localmente prima di fare il comm
 
 Se vuoi modificare o provare in locale il sito TorinoTech hai bisogno di un web server. Vai dentro la cartella e digita uno dei [seguenti comandi](https://gist.github.com/willurd/5720255).
 
-## TODO
+## TODO
+
 - [x] Iniziare
 - [x] Integrare le modifiche fatte al repo con i social facebook e twitter
 - [ ] Convincere le persone a modificare un file su Github per tenere i dati aggiornati
@@ -100,4 +101,4 @@ Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni
 1. Assicurati di aver installato node.js
 2. Installa le dipendenze con `npm install` dalla cartella del progetto
 3. Lancia il server con `node app.js`
-4. Apri il browser e raggiungi l'indirizzo `localhost:3000
+4. Apri il browser e raggiungi l'indirizzo <http://localhost:3000>
