@@ -26,7 +26,7 @@ Se non sai come funziona YAML o hai qualche dubbio verifica la correttezza della
 
 Il titolo del commit sarà anche il testo del Tweet e post Facebook. Esempio di titolo del commit: **31/01: Mio evento X**
 
-L'ID dell'evento (201512101930) deve essere univoco. Generalmente basta indicare anno+mese+giorno+ora+minuti. Nel caso di ID duplicato ti invitiamo ad aggiungere un minuto all'ID (in questo caso 201512101931).
+L'ID dell'evento (`201512101930`) deve essere univoco. Generalmente basta indicare anno+mese+giorno+ora+minuti. Nel caso di ID duplicato ti invitiamo ad aggiungere un minuto all'ID (in questo caso `201512101931`).
 
 Se non sei sicuro puoi comunque testare il sito localmente prima di fare il commit.
 
