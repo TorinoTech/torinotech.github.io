@@ -26,7 +26,7 @@ Se non sai come funziona YAML o hai qualche dubbio verifica la correttezza della
 
 Il titolo del commit sarà anche il testo del Tweet e post Facebook. Esempio di titolo del commit: **31/01: Mio evento X**
 
-L'ID dell'evento (201512101930) deve essere univoco. Generalmente basta indicare anno+mese+giorno+ora+minuti. Nel caso di ID duplicato ti invitiamo ad aggiungere un minuto all'ID (in questo caso 201512101931).
+L'ID dell'evento (`201512101930`) deve essere univoco. Generalmente basta indicare anno+mese+giorno+ora+minuti. Nel caso di ID duplicato ti invitiamo ad aggiungere un minuto all'ID (in questo caso `201512101931`).
 
 Se non sei sicuro puoi comunque testare il sito localmente prima di fare il commit.
 
@@ -37,8 +37,8 @@ Se vuoi modificare o provare in locale il sito TorinoTech hai bisogno di un web 
 ## TODO
 
 - [x] Iniziare
-- [x] Integrare le modifiche fatte al repo con i social facebook e twitter
-- [ ] Convincere le persone a modificare un file su Github per tenere i dati aggiornati
+- [x] Integrare le modifiche fatte al repo con i social Facebook e Twitter
+- [ ] Convincere le persone a modificare un file su GitHub per tenere i dati aggiornati
 - [x] Differenziare gli eventi gratuiti da quelli a pagamento
 
 ### Cosa si intende con eventi tech Open * ?
@@ -96,9 +96,11 @@ L’evento. Qualche settimana prima verrà aperto un evento su Eventbrite.
 
 # Dev Contributes
 
-Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni per far partire il server in locale usando node.js ed express.js.
+Per contribuire allo sviluppo del progetto basta seguire le seguenti indicazioni per far partire il server in locale usando [Node.js](https://nodejs.org/) ed [Express.js](http://expressjs.com/).
 
-1. Assicurati di aver installato node.js
+1. Assicurati di aver installato Node.js
 2. Installa le dipendenze con `npm install` dalla cartella del progetto
 3. Lancia il server con `node app.js`
 4. Apri il browser e raggiungi l'indirizzo <http://localhost:3000>
+
+<!-- EOF -->
