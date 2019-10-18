@@ -417,3 +417,10 @@
   when: !!str 2017-11-29 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-influxdb-da-0-a-100-39523785707
   free: true
+
+201910181935:
+  organizer: LinuxDay Torino
+  title: "LinuxDay Torino 2019"
+  when: !!str 2019-10-26 14:00:00
+  url: https://linuxdaytorino.org/
+  free: true
