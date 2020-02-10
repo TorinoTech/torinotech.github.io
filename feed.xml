@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://matjack1.github.io/torinotech/feed.xml" rel="self" type="application/atom+xml" /><link href="https://matjack1.github.io/torinotech/" rel="alternate" type="text/html" /><updated>2020-02-10T21:39:25+00:00</updated><id>https://matjack1.github.io/torinotech/feed.xml</id><title type="html">Torino Tech</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">WHAT?</title><link href="https://matjack1.github.io/torinotech/2020/02/10/what.html" rel="alternate" type="text/html" title="WHAT?" /><published>2020-02-10T11:52:23+00:00</published><updated>2020-02-10T11:52:23+00:00</updated><id>https://matjack1.github.io/torinotech/2020/02/10/what</id><content type="html" xml:base="https://matjack1.github.io/torinotech/2020/02/10/what.html">&lt;p&gt;What is this super doooooper&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;one&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;two&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;puts '&amp;lt;3'&lt;/code&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">What is this super doooooper</summary></entry><entry><title type="html">Hey, from CMS</title><link href="https://matjack1.github.io/torinotech/2020/02/07/hey-from-cms.html" rel="alternate" type="text/html" title="Hey, from CMS" /><published>2020-02-07T21:15:31+00:00</published><updated>2020-02-07T21:15:31+00:00</updated><id>https://matjack1.github.io/torinotech/2020/02/07/hey-from-cms</id><content type="html" xml:base="https://matjack1.github.io/torinotech/2020/02/07/hey-from-cms.html">&lt;p&gt;Test&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;one&lt;/li&gt;
+  &lt;li&gt;two&lt;/li&gt;
+  &lt;li&gt;three&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Test</summary></entry><entry><title type="html">Ciao</title><link href="https://matjack1.github.io/torinotech/2020/02/07/ciao.html" rel="alternate" type="text/html" title="Ciao" /><published>2020-02-07T21:15:31+00:00</published><updated>2020-02-07T21:15:31+00:00</updated><id>https://matjack1.github.io/torinotech/2020/02/07/ciao</id><content type="html" xml:base="https://matjack1.github.io/torinotech/2020/02/07/ciao.html">&lt;p&gt;Bla bla&lt;/p&gt;</content><author><name></name></author><summary type="html">Bla bla</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://matjack1.github.io/torinotech/jekyll/update/2020/02/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-02-03T18:59:13+00:00</published><updated>2020-02-03T18:59:13+00:00</updated><id>https://matjack1.github.io/torinotech/jekyll/update/2020/02/03/welcome-to-jekyll</id><content type="html" xml:base="https://matjack1.github.io/torinotech/jekyll/update/2020/02/03/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
