@@ -1,0 +1,271 @@
+- title: Agile Community Torino
+  slug: agile-community-torino
+  img: agile.png
+  description: Community per la condivisione e la diffusione di un approccio Agile e Lean allo sviluppo di prodotti e servizi.
+  url: http://agile.to.it/
+  source:
+    type: meetup
+    slug: Agile-Community-Torino
+
+- title: Become a Game Developer
+  slug: become-a-game-developer
+  img: bagd.png
+  description: Serate settimanali in cui si impara assieme a sviluppare videogiochi.
+  url: https://www.meetup.com/Become-A-Game-Developer/
+  contacts:
+    - label: Facebook
+      url: https://www.facebook.com/becomeagamedeveloper
+  source:
+    type: meetup
+    slug: Become-A-Game-Developer
+
+- title: Big Data & Scala Torino
+  slug: big-data-scala-torino
+  img: scala.png
+  description: Questo gruppo è per tutti coloro che usano abitualmente o vogliono imparare il linguaggio di programmazione Scala e affacciarsi nel mondo dei big data.
+  url: http://www.meetup.com/Torino-Scala-Programming-Big-Data-Meetup/
+  source:
+    type: meetup
+    slug: Torino-Scala-Programming-Big-Data-Meetup
+
+- title: CNCF Turin
+  img: cncf.png
+  description: Meetup dedicato a cloud computing e tools parte della Cloud Native Computing Foundation come Kubernetes, Opentracing, containerd, Envoy...
+  url: https://devcampy.com
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/dev_campy
+  source:
+    type: meetup
+    slug: CNCF-Italy
+
+- title: CoderDojo Torino2
+  slug: coderdojo-torino2
+  img: coderdojotorino2.png
+  description: CoderDojo attivo a Torino Sud
+  url: http://www.coderdojotorino2.it/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/CoderDojoTo2
+  source:
+    type: eventbrite
+    slug: coderdojo-torino2-8085500065
+
+- title: Coding Gym Torino
+  img: codinggym.png
+  description: Una palestra per allenarsi risolvendo in coppia esercizi di programmazione discutendo della propria soluzione con gli altri partecipanti.
+  url: https://coding-gym.org/locations/turin/
+  source:
+    type: eventbrite
+    slug: coding-gym-16859146671
+    filter: Coding Gym Torino
+
+- title: DataBeers Torino
+  slug: databeers-torino
+  img: databeers.png
+  description: Meeting informali presso cui parlare di opendata, bigdata, analisi e visualizzazioni davanti ad una birra
+  url: http://databeerstorino.tumblr.com/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/databeerstorino
+  source:
+    type: eventbrite
+    slug: databeers-torino-6821104823
+
+- title: GDG Torino
+  slug: gdg-torino
+  img: gdg.png
+  category: Programmazione
+  description: Il Google Developer Group (GDG) Torino si propone come punto di incontro locale per gli appassionati di tecnologia, social media e open innovation. Lo scopo è quello di creare una community dove le persone sono libere di condividere le proprie idee, le proprie conoscenze ed esperienze.
+  url: https://www.meetup.com/GDG-Torino
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/GDGTorino
+  source:
+    type: meetup
+    slug: GDG-Torino
+
+- title: FabLab Torino
+  slug: fablab-torino
+  img: fablab.png
+  description: L'Associazione Fablab Torino offre a tutti i suoi associati l'opportunità di apprendere processi e tecnologie legate alla prototipazione rapida, IoT e molto altro.
+  url: http://fablabtorino.org/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/Fablabtorino
+  source:
+    type: eventbrite
+    slug: fablab-torino-3147853804
+
+- title: JUG Torino
+  slug: jug-torino
+  img: jugto.png
+  description: Il Java Users Group (JUG) di Torino organizza incontri occasionali per approfondire le ultime novità sullo sviluppo con Java (e non solo!)
+  url: http://jugtorino.it/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/jugtorino
+  source:
+    type: meetup
+    slug: JUGTorino
+
+- title: Linux Day Torino
+  slug: linux-day-torino
+  img: ldto.png
+  description: Collettivo informale principalmente dedicato all'organizzazione dell'edizione torinese del Linux Day
+  url: http://linuxdaytorino.org/
+  contacts:
+    - label: Facebook
+      url: https://facebook.com/LinuxDayTorino
+    - label: Twitter
+      url: https://twitter.com/LinuxDayTorino
+
+- title: Machine Learning Meetup Torino
+  slug: machine-learning-meetup-torino
+  img: machinelearning.jpeg
+  description: Attorno al mondo dell'intelligenza artificiale sta nascendo sempre più fermento, ora che tutte le grandi società tecnologiche la usano per potenziare l'efficacia dei propri algoritmi.
+  url: http://www.meetup.com/it-IT/Machine-Learning-TO/
+  source:
+    type: meetup
+    slug: Machine-Learning-TO
+
+- title: Meetup Bitcoin Torino
+  slug: meetup-bitcoin-torino
+  img: bitcoin.png
+  description: Un gruppo di appassionati del settore di cryptovalute e reti distribuite che si ritrova per condividere informazioni, progetti e ricerche
+  url: http://www.meetup.com/Meetup-Bitcoin-Torino/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/BitcoinTorino
+  source:
+    type: meetup
+    slug: Meetup-Bitcoin-Torino
+
+- title: Mozilla Torino
+  slug: mozilla-torino
+  img: mozilla.png
+  category: Programmazione
+  description: Eventi, gruppi di studio e workshop relativi alle iniziative Mozilla.
+  url: https://www.meetup.com/it-IT/Mozilla-Torino/
+  source:
+    type: meetup
+    slug: Mozilla-Torino
+
+- title: Python Torino
+  img: pyto.png
+  description: Meetup per sviluppatrici, sviluppatori e curiosi su Python a Torino e dintorni.
+  url: https://www.meetup.com/it-IT/Python-Torino/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/PythonTorino
+  source:
+    type: meetup
+    slug: Python-Torino
+
+- title: PUG Torino
+  slug: pug-torino
+  img: pugto.png
+  description: Il PHP User Group (PUG) di Torino è un gruppo di appassionati del PHP, uno dei linguaggi di programmazione open source più utilizzati sul web
+  url: http://torino.grusp.org/
+  contacts:
+    - label: Facebook
+      url: https://facebook.com/PugTorino
+    - label: Twitter
+      url: https://twitter.com/PugTorino
+  source:
+    type: meetup
+    slug: pugTO-PHP-User-Group-Torino
+
+- title: Toolbox Coworking
+  slug: toolbox-coworking
+  img: toolbox.png
+  description: Toolbox offre spazi, servizi e soluzioni per il lavoro autonomo, al centro di un'area strategica per lo sviluppo delle nuove professionalità a Torino.
+  url: https://toolboxoffice.it/
+  contacts:
+    - label: Facebook
+      url: https://facebook.com/PugTorino
+    - label: Twitter
+      url: https://twitter.com/tlbxcoworking
+  source:
+    type: eventbrite
+    slug: toolbox-coworking-2882655319
+
+- title: Torino .NET user group
+  slug: torino-net-user-group
+  img: torinonet.png
+  description: Chiacchiere, spunti e approfondimenti su .NET Framework. Scambio di idee ed esperienze sulle tecnologie adottate in ambito professionale Microsoft e non, closed e open source.
+  url: https://www.meetup.com/it-IT/preview/Torino-NET-User-Group
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/TorinoNet
+  source:
+    type: meetup
+    slug: Torino-NET-User-Group
+
+- title: Torino Coding Society
+  slug: torino-coding-society
+  img: codingsociety.png
+  description: L'appuntamento mondano degli sviluppatori torinesi
+  url: http://torinocodingsociety.it/
+  source:
+    type: eventbrite
+    slug: toolbox-coworking-2882655319
+
+- title: Torino Hacknight
+  slug: torino-hacknight
+  img: tohacknight.jpg
+  description: Gruppo di lavoro periodico per lavorare insieme su progetti opensource
+  url: http://torino.hacknight.it
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/tohacknight
+  source:
+    type: eventbrite
+    slug: torino-hacknight-9053329779
+
+- title: Torino IoT Meetup
+  slug: torino-iot-meetup
+  img: iot.png
+  description: Building a community to discuss and share ideas on IoT technologies, Design, Open-source, maker culture etc... Come and visit us at Casa Jasmina.
+  url: http://www.meetup.com/Torino-IoT-Meetup/
+  source:
+    type: meetup
+    slug: Torino-IoT-Meetup
+
+- title: Turin Web Performance Group
+  slug: turin-web-performance-group
+  img: webperformance.png
+  description: Vediamo ogni mese qualche tecnica di ottimizzazione delle prestazioni di velocità di siti web lenti e delle best practice, in modo che i siti web che andrai a realizzare rispondano velocemente ai bisogni dei tuoi utenti.
+  url: http://www.meetup.com/it-IT/Turin-Web-Performance-Group/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/trnwebperf
+  source:
+    type: meetup
+    slug: Turin-Web-Performance-Group
+
+- title: Turn into Coders
+  slug: turn-into-coders
+  img: turnintocoders.png
+  description: Diventa programmatore web, Turn into coders è un programma di formazione intensivo di 8 settimane da urlo che ti farà imparare JavaScript per bene e ti renderà capace di addentrarti nel mondo dei programmatori.
+  url: https://turnintocoders.it/
+  contacts:
+    - label: Facebook
+      url: https://facebook.com/turnintocoders
+    - label: Twitter
+      url: https://twitter.com/turnintocoders
+  source:
+    type: meetup
+    slug: turn-into-coders
+
+- title: Wordpress Meetup Torino
+  slug: wordpress-meetup-torino
+  img: wordpress.png
+  description: Il posto dove andare se usi WordPress, vorresti usare WordPress ma non sai da dove iniziare, ti hanno fatto un sito in WordPress ma non lo sai usare.
+  url: http://www.meetup.com/WordPress-Meetup-Torino/
+  contacts:
+    - label: Twitter
+      url: https://twitter.com/wptorino
+  source:
+    type: meetup
+    slug: WordPress-Meetup-Torino
